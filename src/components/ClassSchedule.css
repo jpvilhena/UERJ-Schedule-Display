@@ -1,0 +1,36 @@
+.two-tables {
+  display: flex;
+  gap: 1rem;
+  padding: 0 1rem;
+}
+
+.schedule-table {
+  table-layout: fixed;
+  width: 25vw;
+  max-height: 50rem;
+  border-collapse: collapse;
+  font-size: 1.25rem;
+}
+
+.schedule-table tbody th,
+.schedule-table tbody td {
+  border: 1px solid #444;
+  padding: 0.75rem;
+  text-align: center;
+  height: 2rem;
+  width: 10rem;
+}
+
+.schedule-table td.t-time-room,
+.schedule-table th.t-time-room {
+  width: 8rem;
+}
+
+
+.schedule-table th {
+  background-color: #1a1a1a;
+}
+
+.schedule-table tbody tr:nth-child(even) {
+  background-color: #242424;
+}

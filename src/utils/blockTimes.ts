@@ -1,0 +1,20 @@
+// Every block’s true start/end (in 24 h “HH:MM”)
+export const blockTimes: Record<string, { start: string; end: string }> = {
+  M1: { start: '07:00', end: '07:50' },
+  M2: { start: '07:50', end: '08:40' },
+  M3: { start: '08:50', end: '09:40' },
+  M4: { start: '09:40', end: '10:30' },
+  M5: { start: '10:40', end: '11:30' },
+  M6: { start: '11:30', end: '12:20' },
+  T1: { start: '12:30', end: '13:20' },
+  T2: { start: '13:20', end: '14:10' },
+  T3: { start: '14:20', end: '15:10' },
+  T4: { start: '15:10', end: '16:00' },
+  T5: { start: '16:10', end: '17:00' },
+  T6: { start: '17:00', end: '17:50' },
+  N1: { start: '18:00', end: '18:50' },
+  N2: { start: '18:50', end: '19:40' },
+  N3: { start: '19:40', end: '20:30' },
+  N4: { start: '20:30', end: '21:20' },
+  N5: { start: '21:20', end: '22:10' },
+};

@@ -1,0 +1,36 @@
+.carousel-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.carousel-header,
+.carousel-footer {
+  flex-shrink: 0;
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.carousel-header {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  background: #222;
+  color: white;
+}
+
+.carousel-main {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}
+
+.carousel-header img {
+  height: 6rem;     /* adjust as needed */
+  width: auto;
+}
