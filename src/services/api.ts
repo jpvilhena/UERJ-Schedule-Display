@@ -17,7 +17,7 @@ const dowMap: Record<string, number> = {
 };
 
 export async function fetchSchedule(department: string): Promise<ScheduleEntry[]> {
-  const res = await fetch(`/schedules/${department}.json`);
+  const res = await fetch(`schedules/${department}.json`);
   if (!res.ok) throw new Error(`Failed to load schedule: ${res.status}`);
   const data: ClassSchedule[] = await res.json();
 

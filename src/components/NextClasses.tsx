@@ -9,7 +9,7 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
     function tick() {
       const now = Date.now();
       const upcoming = entries.filter(e => e.end.getTime() > now);
-      setNextUp(upcoming.slice(0, 5)); 
+      setNextUp(upcoming.slice(0, 10)); 
     }
 
     // Run immediately, then every 30s

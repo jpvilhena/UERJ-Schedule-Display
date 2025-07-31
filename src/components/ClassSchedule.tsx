@@ -28,6 +28,7 @@ export function ClassSchedule({ entries }: { entries: ScheduleEntry[] }) {
               <td>{e.instructor}</td>
               <td className="t-time-room">{e.classroom}</td>
             </tr>
+            
         ))}
       </tbody>
     </table>

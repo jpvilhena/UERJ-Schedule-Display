@@ -12,13 +12,16 @@ export function ScheduleCarousel() {
   const [entries, setEntries] = useState<ScheduleEntry[]>([]);
   const currentDept = DEPARTMENTS[idx];
   const logoFile = DEPARTMENT_LOGOS[currentDept];
-  const logoSrc  = `/logos/${logoFile}`;
+  const logoSrc  = `logos/${logoFile}`;
+
+  function sortByStart(entries: ScheduleEntry[]): ScheduleEntry[] {
+    return [...entries].sort((a, b) => a.start.getTime() - b.start.getTime());
+  }
 
   // Whenever idx changes, load that department’s JSON
   useEffect(() => {
-    const dept = DEPARTMENTS[idx];
-    fetchSchedule(dept)
-      .then(data => setEntries(data))
+    fetchSchedule(DEPARTMENTS[idx])
+      .then(data => setEntries(sortByStart(data)))
       .catch(console.error);
   }, [idx]);
 

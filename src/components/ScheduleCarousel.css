@@ -28,6 +28,7 @@
   flex: 1;
   overflow: hidden;
   display: flex;
+  padding-left: 5rem;
 }
 
 .carousel-header img {
