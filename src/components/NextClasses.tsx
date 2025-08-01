@@ -26,7 +26,7 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
     <div className="next-classes">
       <ul>
         {nextUp.map((c, i) => (
-          <li key={i}>
+          <li key={i} className='listed-next-classes'>
             {c.subject} em {c.classroom}
             <br/>
             (Término: {c.end.toLocaleTimeString()})

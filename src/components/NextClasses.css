@@ -1,5 +1,9 @@
 .next-classes {
-  font-size: 1.75rem;
+  font-size: 2rem;
   padding: 0;
   max-height: 50vh;
+}
+
+.listed-next-classes {
+  padding-bottom: 1rem;
 }

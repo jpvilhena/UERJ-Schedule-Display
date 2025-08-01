@@ -1,29 +1,29 @@
 .two-tables {
   display: flex;
-  gap: 1rem;
+  gap: 4rem;
   padding: 0 1rem;
 }
 
 .schedule-table {
   table-layout: fixed;
-  width: 25vw;
+  width: 35vw;
   max-height: 50rem;
   border-collapse: collapse;
-  font-size: 1.25rem;
+  font-size: 2rem;
 }
 
-.schedule-table tbody th,
-.schedule-table tbody td {
+.schedule-table th,
+.schedule-table td {
   border: 1px solid #444;
   padding: 0.75rem;
   text-align: center;
-  height: 2rem;
-  width: 10rem;
+  height: 3rem;
+  width: 12rem;
 }
 
 .schedule-table td.t-time-room,
 .schedule-table th.t-time-room {
-  width: 8rem;
+  width: 13rem;
 }
 
 
