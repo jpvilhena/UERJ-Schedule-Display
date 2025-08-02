@@ -1,9 +1,16 @@
 .next-classes {
   font-size: 2rem;
-  padding: 0;
+  padding-left: 1rem;;
   max-height: 50vh;
 }
 
 .listed-next-classes {
   padding-bottom: 1rem;
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid #444;
+  background-color: #1a1a1a;
+  margin-top: 0;
 }

@@ -24,6 +24,7 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
 
   return (
     <div className="next-classes">
+      <h2>Proximas Aulas:</h2>
       <ul>
         {nextUp.map((c, i) => (
           <li key={i} className='listed-next-classes'>
