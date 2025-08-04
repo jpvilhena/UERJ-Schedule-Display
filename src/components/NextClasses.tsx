@@ -19,7 +19,12 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
   }, [entries]);
 
   if (nextUp.length === 0) {
-    return <p className="next-classes">Sem mais aulas hoje!</p>;
+    return (
+    <div className="next-classes">
+      <h2>Proximas Aulas:</h2>
+      <p className="listed-next-classes">Sem mais aulas hoje!</p>
+    </div>
+    );
   }
 
   return (

@@ -37,7 +37,7 @@ export function ScheduleCarousel() {
   return (
     <div className="carousel-container">
       <header className="carousel-header">
-        <img src='logos\Logo_UERJ.png' alt='UERJ logo' height={60}/>
+        <img src='logos\Logo_UERJ.png' id='UERJ-logo' alt='UERJ logo' height={60}/>
         <h1>{DEPARTMENT_LABELS[currentDept]}</h1>
         <img src={logoSrc} alt={'${currentDept} logo'} height={60}/>
       </header>
