@@ -34,3 +34,9 @@
 .schedule-table tbody tr:nth-child(even) {
   background-color: #242424;
 }
+
+@media screen and (min-width: 3800px){
+  .schedule-table {
+    font-size: 2rem;
+  }
+}

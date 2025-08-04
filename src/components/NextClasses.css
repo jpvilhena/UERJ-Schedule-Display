@@ -14,3 +14,9 @@ h2 {
   background-color: #1a1a1a;
   margin-top: 0;
 }
+
+@media screen and (min-width: 3800px){
+  .next-classes{
+  font-size: 2rem;
+}
+}

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS} from '../utils/constants';
+import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS, DEPARTMENT_SOCIALS} from '../utils/constants';
 import { ScheduleEntry, fetchSchedule } from '../services/api';
 import { ClassSchedule } from './ClassSchedule';
 import { NextClasses } from './NextClasses';
@@ -48,6 +48,18 @@ export function ScheduleCarousel() {
       </main>
 
       <footer className="carousel-footer">
+        <ul className='social-links'>
+          <li>
+            <a href='https://www.instagram.com/ifchuerj?igsh=N2R3azM0OTdkeG1r' target='_blank' rel='noopener noreferrer'>@ifchuerj</a>
+          </li>
+          {DEPARTMENT_SOCIALS[currentDept]?.map((social, i) => (
+          <li key={i}>
+            <a href={social.url} target='_blank' rel='noopener noreferrer'>
+              {social.name}
+              </a>
+          </li>
+          ))}
+        </ul>
       </footer>
     </div>
   );
