@@ -7,7 +7,7 @@
 .schedule-table {
   table-layout: fixed;
   width: 35vw;
-  max-height: 50rem;
+  max-height: 90vh;
   border-collapse: collapse;
   font-size: 1.5rem;
 }

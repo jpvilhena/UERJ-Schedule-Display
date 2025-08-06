@@ -1,7 +1,7 @@
 .next-classes {
+  margin-left: 0.5rem;
   font-size: 1.5rem;
-  padding-left: 0.5rem;
-  max-height: 50vh;
+  height: fit-content
 }
 
 .listed-next-classes {
@@ -9,6 +9,8 @@
 }
 
 h2 {
+  font-size: 1.75rem;
+  flex-grow: 1;
   text-align: center;
   border: 1px solid #444;
   background-color: #1a1a1a;

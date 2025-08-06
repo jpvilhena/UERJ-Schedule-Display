@@ -52,18 +52,8 @@ if (currentDept !== "socials") {
 } else {
     return (
       <div className="carousel-container">
-        <header className="carousel-header">
-            <img src='logos\Logo_UERJ.png' id='UERJ-logo' alt='UERJ logo' height={60}/>
-            <h1>{DEPARTMENT_LABELS[currentDept]}</h1>
-        </header>
         <div className='card-container'>
-          <img src='Card_img\IFCH.png' alt='Informações Redes Sociais IFCH'/>
-          <img src='Card_img\historia.png' alt='Informações Redes Sociais HIS'/>
-          <img src='Card_img\ppgh.png' alt='Informações Redes Sociais PPGH'/>
-          <img src='Card_img\filosofia.png' alt='Informações Redes Sociais FIL'/>
-          <img src='Card_img\ppgfil.png' alt='Informações Redes Sociais PPGFIL'/>
-          <img src='Card_img\arqueologia.png' alt='Informações Redes Sociais ARQ'/>
-          <img src='Card_img\RI.png' alt='Informações Redes Sociais RI'/>
+          <img src='Card_img\Redes_sociais_site.png' alt='Informações Redes Sociais IFCH'/>
         </div>
       </div>
     )

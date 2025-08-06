@@ -76,15 +76,14 @@ a:hover {
 }
 
 .card-container {
+  margin-top: 1rem;
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-  gap: 15px;
 }
 
 .card-container img {
-  width: 23vw;
+  box-shadow: 5px 5px 10px black;
+  width: 98vw;
   border-radius: 10px;
   margin-right: 1rem;
-  box-shadow: 5px 5px 10px black;
 }
