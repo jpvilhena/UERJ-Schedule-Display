@@ -5,7 +5,7 @@ import { ClassSchedule } from './ClassSchedule';
 import { NextClasses } from './NextClasses';
 import './ScheduleCarousel.css';
 
-const INTERVAL_MS = 5_000; // 10 seconds
+const INTERVAL_MS = 12_000; // 12 seconds
 
 export function ScheduleCarousel() {
   const [idx, setIdx] = useState(0);
