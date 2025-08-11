@@ -3,8 +3,8 @@ import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS, DEPARTMENT_COLORS } f
 import { ScheduleEntry, fetchSchedule } from '../services/api';
 import { ClassSchedule } from './ClassSchedule';
 import { NextClasses } from './NextClasses';
-import './ScheduleCarousel.css';
 import { MP4Player } from './VideoPlayer';
+import './ScheduleCarousel.css';
 
 const INTERVAL_MS = 5_000; // 20 seconds
 
