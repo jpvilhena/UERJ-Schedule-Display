@@ -4,51 +4,20 @@
   height: 100vh;
 }
 
-.carousel-header,
-.carousel-footer {
-  flex-shrink: 0;
-  background: #0072ce;
-  color: #fff;
-  padding: 0.5rem 1rem;
-}
-
 .carousel-header {
+  transition: background-color 0.5s ease;
+  background: #0072ce;
+  color: #f1eeea;
   text-align: center;
   font-size: 1.75rem;
   margin-bottom: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 4px solid #0169a1;
-  padding-bottom: 0rem;
+  border-bottom: 4px solid #00000010;
   max-height: 4.5rem;
 }
 
-.carousel-footer {
-  font-size: 1.25rem;
-  text-decoration: none;
-  padding: 0;
-  margin: 0;
-  height: 3rem;
-  border-top: 4px solid #0169a1;
-}
-
-.social-links {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 1rem;
-  margin: 0.5rem 0 0 0;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-a:hover {
-  color: #b6b6b6;
-}
 
 .carousel-header h1{
   position: absolute;
@@ -61,29 +30,18 @@ a:hover {
   display: flex;
   overflow: hidden;
   justify-content: center;
-  padding-left: 2rem;
+  font-weight: bold;
 }
 
 .carousel-header img {
-  height: 5rem;
+  height: 4.5rem;
   width: auto;
+  margin: 0.5rem 0.5rem;
 }
 
 #UERJ-logo {
-  height: 6rem;
+  height: 5.5rem;
   background-color: #ffffff;
   border-radius: 0px 0px 10px 10px;
-}
-
-.card-container {
-  margin-top: 1rem;
-  display: flex;
-  justify-content: center;
-}
-
-.card-container img {
-  box-shadow: 5px 5px 10px black;
-  width: 98vw;
-  border-radius: 10px;
-  margin-right: 1rem;
+  margin-top: 1.2rem;
 }

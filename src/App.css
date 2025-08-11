@@ -2,6 +2,10 @@ ul {
   list-style: none;
 }
 
+body {
+  background-color: #f1eeea;
+}
+
 body, html, #root {
   height: 100%;
   margin: 0;

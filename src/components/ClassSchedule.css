@@ -1,38 +1,37 @@
 .two-tables {
   display: flex;
   gap: 2rem;
-  padding: 0 0.5rem;
 }
 
 .schedule-table {
   table-layout: fixed;
-  width: 35vw;
+  width: 36vw;
   max-height: 90vh;
   border-collapse: collapse;
-  font-size: 1.5rem;
+  font-size: 1.55rem;
+  background-color: #f8f8f8;
 }
 
 .schedule-table th,
 .schedule-table td {
-  border: 1px solid #444;
+  border: 1px solid #242528;
   padding: 0.5rem;
   text-align: center;
-  height: 2rem;
   width: 8rem;
 }
 
-.schedule-table td.t-time-room,
-.schedule-table th.t-time-room {
-  width: 4rem;
+.schedule-table td#t-time-room,
+.schedule-table th#t-time-room {
+  width: 4.2rem;
 }
 
-
 .schedule-table th {
-  background-color: #1a1a1a;
+  background-image: linear-gradient(to bottom, #a2a2a2 -10%, #b2b2b2 10%, #a2a2a2 90%);
+  height: 38px;
 }
 
 .schedule-table tbody tr:nth-child(even) {
-  background-color: #242424;
+  background-color: #fff;
 }
 
 @media screen and (min-width: 3800px){

@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react';
-import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS} from '../utils/constants';
+import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS, DEPARTMENT_COLORS } from '../utils/constants';
 import { ScheduleEntry, fetchSchedule } from '../services/api';
 import { ClassSchedule } from './ClassSchedule';
 import { NextClasses } from './NextClasses';
 import './ScheduleCarousel.css';
+import { MP4Player } from './VideoPlayer';
 
-const INTERVAL_MS = 12_000; // 12 seconds
+const INTERVAL_MS = 5_000; // 20 seconds
 
 export function ScheduleCarousel() {
   const [idx, setIdx] = useState(0);
@@ -20,6 +21,7 @@ export function ScheduleCarousel() {
 
   // Whenever idx changes, load that department’s JSON
   useEffect(() => {
+    if (currentDept === 'socials') return;
     fetchSchedule(DEPARTMENTS[idx])
       .then(data => setEntries(sortByStart(data)))
       .catch(console.error);
@@ -27,34 +29,37 @@ export function ScheduleCarousel() {
 
   // Advance idx every INTERVAL_MS milliseconds
   useEffect(() => {
+    if (currentDept === 'socials') return;
+
     const id = setInterval(() => {
       setIdx(i => (i + 1) % DEPARTMENTS.length);
     }, INTERVAL_MS);
+
     return () => clearInterval(id);
-  }, []);
+  }, [idx]);
 
-
-if (currentDept !== "socials") {
-  return (
-    <div className="carousel-container">
-      <header className="carousel-header">
-        <img src='logos\Logo_UERJ.png' id='UERJ-logo' alt='UERJ logo' height={60}/>
-        <h1>{DEPARTMENT_LABELS[currentDept]}</h1>
-        <img src={logoSrc} alt={'${currentDept} logo'} height={60}/>
-      </header>
-
-      <main className="carousel-main">
-        <ClassSchedule entries={entries} />
-        <NextClasses entries={entries} />
-      </main>
-    </div>
-  );
-} else {
+  // Shows the schedule until we reach the idx of the video
+  if(currentDept!=='socials') {
     return (
       <div className="carousel-container">
-        <div className='card-container'>
-          <img src='Card_img\Redes_sociais_site.png' alt='Informações Redes Sociais IFCH'/>
-        </div>
+        <header className="carousel-header" style={{ backgroundImage: DEPARTMENT_COLORS[currentDept] }}>
+          <img src='logos\Logo_UERJ.png' id='UERJ-logo' alt='UERJ logo' height={60}/>
+          <h1>{DEPARTMENT_LABELS[currentDept]}</h1>
+          <img src={logoSrc} id='dept-logo' alt={'${currentDept} logo'} height={60}/>
+        </header>
+
+        <main className="carousel-main">
+          <ClassSchedule entries={entries} />
+          <NextClasses entries={entries} />
+        </main>
+      </div>
+    )
+  }else {
+    return (
+      <div className='socials-video'>
+        <MP4Player
+        onVideoEnd={() => setIdx(i => (i + 1) % DEPARTMENTS.length)}
+        />
       </div>
     )
   }

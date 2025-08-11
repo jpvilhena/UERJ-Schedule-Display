@@ -14,10 +14,10 @@ export function ClassSchedule({ entries }: { entries: ScheduleEntry[] }) {
       <table className="schedule-table" key={tableIdx}>
         <thead>
           <tr>
-            <th className="t-time-room">Hora</th>
-            <th>Disciplina</th>
-            <th>Prof.</th>
-            <th className="t-time-room">Sala</th>
+            <th className='table-headers'id="t-time-room">Hora</th>
+            <th className='table-headers'>Disciplina</th>
+            <th className='table-headers'>Prof.</th>
+            <th className='table-headers' id="t-time-room">Sala</th>
           </tr>
         </thead>
         <tbody>
@@ -28,7 +28,6 @@ export function ClassSchedule({ entries }: { entries: ScheduleEntry[] }) {
               <td>{e.instructor}</td>
               <td className="t-time-room">{e.classroom}</td>
             </tr>
-            
         ))}
       </tbody>
     </table>

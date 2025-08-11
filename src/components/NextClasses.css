@@ -1,25 +1,38 @@
 .next-classes {
-  margin-left: 0.5rem;
-  font-size: 1.5rem;
-  height: fit-content
+  margin-left: 2rem;
+  font-size: 1.75rem;
+  width: 22vw;
+  background-color: #f8f8f8;
+  max-height: 90vh;
 }
 
 .listed-next-classes {
   padding-bottom: 1rem;
+  border-bottom: 1px inset #242528;
+  text-align: start;
+}
+
+.listed-next-classes:last-child {
+  border-bottom: none;
 }
 
 h2 {
   font-size: 1.75rem;
-  flex-grow: 1;
   text-align: center;
-  border: 1px solid #444;
-  background-color: #1a1a1a;
+  border: 1px solid #242528;
+  background-image: linear-gradient(to bottom, #a2a2a2 -10%, #b2b2b2 10%, #a2a2a2 90%);
   margin-top: 0;
-  padding: 0 4rem;
+  padding: 0.5rem 4.5rem;
+  height: 38px;
 }
 
 @media screen and (min-width: 3800px){
   .next-classes{
-  font-size: 2rem;
+  font-size: 2.5rem;
+}
+h2 {
+  padding: 1rem 4.5rem;
+  font-size: 2.75rem;
+  height: auto;
 }
 }
