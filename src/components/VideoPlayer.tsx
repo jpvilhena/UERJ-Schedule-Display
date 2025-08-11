@@ -1,7 +1,7 @@
 export function MP4Player({ onVideoEnd }: { onVideoEnd?: () => void }) {
   return (
     <video
-      src="docs\video\Televisao_IFCH.mp4"
+      src={`${import.meta.env.BASE_URL}video/Televisao_IFCH.mp4`}
       autoPlay
       muted
       playsInline
