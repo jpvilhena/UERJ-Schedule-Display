@@ -3,7 +3,7 @@ import { DEPARTMENTS, DEPARTMENT_LABELS, DEPARTMENT_LOGOS, DEPARTMENT_COLORS } f
 import { ScheduleEntry, fetchSchedule } from '../services/api';
 import { ClassSchedule } from './ClassSchedule';
 import { NextClasses } from './NextClasses';
-import { MP4Player } from './VideoPlayer';
+import { YoutubePlayerComponent } from './YoutubePlayer';
 import './ScheduleCarousel.css';
 
 const INTERVAL_MS = 20_000; // 20 seconds
@@ -57,7 +57,7 @@ export function ScheduleCarousel() {
   }else {
     return (
       <div className='socials-video'>
-        <MP4Player
+        <YoutubePlayerComponent
         onVideoEnd={() => setIdx(i => (i + 1) % DEPARTMENTS.length)}
         />
       </div>
