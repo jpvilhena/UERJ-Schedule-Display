@@ -21,7 +21,7 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
   if (nextUp.length === 0) {
     return (
     <div className="next-classes">
-      <h2 className='table-headers'>Proximas Aulas</h2>
+      <h2 className='table-headers'>Próximas Aulas</h2>
       <p className="listed-next-classes" style={{textAlign:'center', marginTop:'4rem'}}>Sem mais aulas hoje!</p>
     </div>
     );
@@ -29,7 +29,7 @@ export function NextClasses({ entries }: { entries: ScheduleEntry[] }) {
 
   return (
     <div className="next-classes">
-      <h2 className='table-headers'>Proximas Aulas:</h2>
+      <h2 className='table-headers'>Próximas Aulas:</h2>
       <ul>
         {nextUp.map((c, i) => (
           <li key={i} className='listed-next-classes'>
