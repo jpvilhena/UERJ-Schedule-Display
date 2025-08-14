@@ -1,1 +1,902 @@
-[{"department":"filosofia","subject":"HESP II","subjectCode":"IFCH01-01554","classCode":"01","time":"3ª (M5-M6)","instructor":"Priscila Weber","classroom":"9032/F"},{"department":"filosofia","subject":"HESP II","subjectCode":"IFCH01-01554","classCode":"01","time":"5ª (M5-M6)","instructor":"Priscila Weber","classroom":"9032/F"},{"department":"filosofia","subject":"HESP II","subjectCode":"IFCH01-01554","classCode":"02","time":"3ª (N1-N2)","instructor":"José Roberto","classroom":"9032/F"},{"department":"filosofia","subject":"HESP II","subjectCode":"IFCH01-01554","classCode":"02","time":"4ª (N1-N2)","instructor":"José Roberto","classroom":"9032/F"},{"department":"filosofia","subject":"Antropologia Cultural IV","subjectCode":"IESP01-13865","classCode":"01","time":"3ª (M1-M4)","instructor":"","classroom":"9032/F"},{"department":"filosofia","subject":"Antropologia Cultural IV","subjectCode":"IESP01-13865","classCode":"02","time":"6ª (N1-N4)","instructor":"","classroom":"9032/F"},{"department":"filosofia","subject":"Filosofia e História da Arte I","subjectCode":"IFCH03-04095","classCode":"01","time":"5ª (M3-M4)","instructor":"Ricardo Barbosa","classroom":"9032/F"},{"department":"filosofia","subject":"Filosofia e História da Arte I","subjectCode":"IFCH03-04095","classCode":"01","time":"6ª (M3-M4)","instructor":"Ricardo Barbosa","classroom":"9032/F"},{"department":"filosofia","subject":"Filosofia e História da Arte I","subjectCode":"IFCH03-04095","classCode":"02","time":"4ª (T6)","instructor":"Naiara Paula","classroom":"9032/F"},{"department":"filosofia","subject":"Filosofia e História da Arte I","subjectCode":"IFCH03-04095","classCode":"02","time":"4ª (N3-N5)","instructor":"Naiara Paula","classroom":"9032/F"},{"department":"filosofia","subject":"História da Filosofia Antiga II","subjectCode":"IFCH03-04432","classCode":"01","time":"2ª (M1-M4)","instructor":"Maria Inês","classroom":"9032/F"},{"department":"filosofia","subject":"História da Filosofia Antiga II","subjectCode":"IFCH03-04432","classCode":"02","time":"2ª (N3-N5)","instructor":"Felipe Gall","classroom":"9032/F"},{"department":"filosofia","subject":"História da Filosofia Antiga II","subjectCode":"IFCH03-04432","classCode":"02","time":"3ª (T6)","instructor":"Felipe Gall","classroom":"9032/F"},{"department":"filosofia","subject":"Introdução à Filosofia II","subjectCode":"IFCH03-05574","classCode":"01","time":"4ª (M3-M6)","instructor":"Fabiano Britto","classroom":"9032/F"},{"department":"filosofia","subject":"Introdução à Filosofia II","subjectCode":"IFCH03-05574","classCode":"02","time":"5ª (T6)","instructor":"Felipe Gall","classroom":"9032/F"},{"department":"filosofia","subject":"Introdução à Filosofia II","subjectCode":"IFCH03-05574","classCode":"02","time":"5ª (N3-N5)","instructor":"Felipe Gall","classroom":"9032/F"},{"department":"filosofia","subject":"Lógica Clássica II","subjectCode":"IFCH03-05645","classCode":"01","time":"4ª (M1-M2)","instructor":"Luiz Carlos","classroom":"9032/F"},{"department":"filosofia","subject":"Lógica Clássica II","subjectCode":"IFCH03-05645","classCode":"01","time":"5ª (M1-M2)","instructor":"Luiz Carlos","classroom":"9032/F"},{"department":"filosofia","subject":"Lógica Clássica II","subjectCode":"IFCH03-05645","classCode":"02","time":"3ª (N3-N4)","instructor":"Tiago Alves","classroom":"9032/F"},{"department":"filosofia","subject":"Lógica Clássica II","subjectCode":"IFCH03-05645","classCode":"02","time":"5ª (N1-N2)","instructor":"Tiago Alves","classroom":"9032/F"},{"department":"filosofia","subject":"Prát. e Metod. deAnál. de Textos Fil. II","subjectCode":"IFCH03-09866","classCode":"01","time":"2ª (M5-T2)","instructor":"Maria Inês","classroom":"9032/F"},{"department":"filosofia","subject":"Prát. e Metod. deAnál. de Textos Fil. II","subjectCode":"IFCH03-09866","classCode":"02","time":"2ª (T5-N2)","instructor":"Maria Inês","classroom":"9032/F"},{"department":"filosofia","subject":"Ética II","subjectCode":"IFCH03-01456","classCode":"01","time":"4ª (M5-M6)","instructor":"Daniel Costa","classroom":"9053/F"},{"department":"filosofia","subject":"Ética II","subjectCode":"IFCH03-01456","classCode":"01","time":"6ª (M5-M6)","instructor":"Daniel Costa","classroom":"9053/F"},{"department":"filosofia","subject":"Ética II","subjectCode":"IFCH03-01456","classCode":"02","time":"2ª (N1-N2)","instructor":"Naiara Paula","classroom":"9053/F"},{"department":"filosofia","subject":"Ética II","subjectCode":"IFCH03-01456","classCode":"02","time":"4ª (N1-N2)","instructor":"Naiara Paula","classroom":"9053/F"},{"department":"filosofia","subject":"Fil. Geral Prob.Metafísicos I","subjectCode":"IFCH03-03758","classCode":"01","time":"3ª (M3-M4)","instructor":"Casa Nova","classroom":"9053/F"},{"department":"filosofia","subject":"Fil. Geral Prob.Metafísicos I","subjectCode":"IFCH03-03758","classCode":"01","time":"5ª (M3-M4)","instructor":"Casa Nova","classroom":"9053/F"},{"department":"filosofia","subject":"Fil. Geral Prob.Metafísicos I","subjectCode":"IFCH03-03758","classCode":"02","time":"2ª (N3-N4)","instructor":"Fernando Maia","classroom":"9053/F"},{"department":"filosofia","subject":"Fil. Geral Prob.Metafísicos I","subjectCode":"IFCH03-03758","classCode":"02","time":"4ª (N3-N4)","instructor":"Fernando Maia","classroom":"9053/F"},{"department":"filosofia","subject":"História da Fil. Medieval II","subjectCode":"IFCH03-04705","classCode":"01","time":"3ª (M1-M2)","instructor":"Alexandre Cabral","classroom":"9053/F"},{"department":"filosofia","subject":"História da Fil. Medieval II","subjectCode":"IFCH03-04705","classCode":"01","time":"5ª (M1-M2)","instructor":"Alexandre Cabral","classroom":"9053/F"},{"department":"filosofia","subject":"História da Fil. Medieval II","subjectCode":"IFCH03-04705","classCode":"02","time":"5ª (N1-N2)","instructor":"Rogério Soares","classroom":"9053/F"},{"department":"filosofia","subject":"História da Fil. Medieval II","subjectCode":"IFCH03-04705","classCode":"02","time":"6ª (N1-N2)","instructor":"Rogério Soares","classroom":"9053/F"},{"department":"filosofia","subject":"Teoria do Conhecimento II","subjectCode":"IFCH03-06048","classCode":"01","time":"4ª (M3-M4)","instructor":"Antonio Augusto","classroom":"9053/F"},{"department":"filosofia","subject":"Teoria do Conhecimento II","subjectCode":"IFCH03-06048","classCode":"01","time":"6ª (M3-M4)","instructor":"Antonio Augusto","classroom":"9053/F"},{"department":"filosofia","subject":"Teoria do Conhecimento II","subjectCode":"IFCH03-06048","classCode":"02","time":"5ª (N3-N4)","instructor":"Danillo Leite","classroom":"9053/F"},{"department":"filosofia","subject":"Teoria do Conhecimento II","subjectCode":"IFCH03-06048","classCode":"02","time":"6ª (N3-N4)","instructor":"Danillo Leite","classroom":"9053/F"},{"department":"filosofia","subject":"Prát. Pedagógicaem Filosofia I","subjectCode":"CAP05- 08856","classCode":"01","time":"4ª (M1-M4)","instructor":"Maria Helena","classroom":"909 /F"},{"department":"filosofia","subject":"Monografia I","subjectCode":"IFCH03-06284","classCode":"01","time":"Sáb. (M1-M3)","instructor":"","classroom":"Ver"},{"department":"filosofia","subject":"Monografia I","subjectCode":"IFCH03-06284","classCode":"02","time":"Sáb. (T1-T3)","instructor":"","classroom":"Com"},{"department":"filosofia","subject":"Monografia II(disciplina do 8º período)","subjectCode":"IFCH03-06301","classCode":"01","time":"Sáb. (M4-M6)","instructor":"","classroom":"O"},{"department":"filosofia","subject":"Monografia II(disciplina do 8º período)","subjectCode":"IFCH03-06301","classCode":"02","time":"Sáb. (T4-T6)","instructor":"","classroom":"prof."},{"department":"filosofia","subject":"Estágio Supervisionado","subjectCode":"CAP05-08854","classCode":"01","time":"3ª (M3-M6)","instructor":"Rachel Martins","classroom":"9019/F9104/F"},{"department":"filosofia","subject":"Estágio Supervisionado","subjectCode":"CAP05-08854","classCode":"01","time":"5ª (N1-N2)","instructor":"Rachel Martins","classroom":"9019/F9104/F"},{"department":"filosofia","subject":"DISCIPLINA","subjectCode":"CÓD.","classCode":"T","time":"HORÁRIO","instructor":"PROF.","classroom":"SALA"},{"department":"filosofia","subject":"Prát. Pedagógicaem Filosofia II","subjectCode":"CAP05-08857","classCode":"01","time":"4ª (M5-M6)","instructor":"Maria Helena","classroom":"909 /F"},{"department":"filosofia","subject":"Estágio Supervisionado","subjectCode":"CAP05-08855","classCode":"01","time":"3ª (T2-T3)","instructor":"Ana Rosa","classroom":"Aula no CAP"},{"department":"filosofia","subject":"Estágio Supervisionado","subjectCode":"CAP05-08855","classCode":"01","time":"4ª (T2-T3)","instructor":"Ana Rosa","classroom":"Aula no CAP"},{"department":"filosofia","subject":"Estágio Supervisionado","subjectCode":"CAP05-08964","classCode":"01","time":"4ª (N1-N4)","instructor":"Vladimir Ribeiro","classroom":"9104/F"},{"department":"filosofia","subject":"História da Fil. Moderna II","subjectCode":"IFCH03-04915","classCode":"01","time":"2ª (M3-M4)","instructor":"Marcos Gleizer","classroom":"9054/F"},{"department":"filosofia","subject":"História da Fil. Moderna II","subjectCode":"IFCH03-04915","classCode":"01","time":"3ª (M3-M4)","instructor":"Marcos Gleizer","classroom":"9054/F"},{"department":"filosofia","subject":"História da Fil. Moderna II","subjectCode":"IFCH03-04915","classCode":"02","time":"3ª (N1-N2)","instructor":"Tiago Alves","classroom":"9054/F"},{"department":"filosofia","subject":"História da Fil. Moderna II","subjectCode":"IFCH03-04915","classCode":"02","time":"5ª (N3-N4)","instructor":"Tiago Alves","classroom":"9054/F"},{"department":"filosofia","subject":"Antropologia Filosófica I","subjectCode":"IFCH03-00106","classCode":"01","time":"6ª (M3-M6)","instructor":"Camila Jourdan","classroom":"9050/F"},{"department":"filosofia","subject":"Antropologia Filosófica I","subjectCode":"IFCH03-00106","classCode":"02","time":"4ª (N1-N4)","instructor":"","classroom":"9054/F"},{"department":"filosofia","subject":"Lab. de Prát. de Ens. da Fil. II","subjectCode":"IFCH03-09868","classCode":"01","time":"2ª (T1-T2)","instructor":"","classroom":"9054/F"},{"department":"filosofia","subject":"Lab. de Prát. de Ens. da Fil. II","subjectCode":"IFCH03-09868","classCode":"01","time":"4ª (M3-M4)","instructor":"","classroom":"9054/F"},{"department":"filosofia","subject":"Lab. de Prát. de Ens. da Fil. II","subjectCode":"IFCH03-09868","classCode":"02","time":"3ª (T5-T6)","instructor":"Márcia do Amaral","classroom":"9054/F"},{"department":"filosofia","subject":"Lab. de Prát. de Ens. da Fil. II","subjectCode":"IFCH03-09868","classCode":"02","time":"3ª (N3-N4)","instructor":"Márcia do Amaral","classroom":"9054/F"},{"department":"filosofia","subject":"Prát. Ped. em Filosofia II","subjectCode":"CAp05-08857","classCode":"01","time":"4ª (M5-M6)","instructor":"Maria Helena","classroom":"909 /F"},{"department":"filosofia","subject":"História da Fil. Contemporânea II","subjectCode":"IFCH03-05159","classCode":"01","time":"5ª (M3-M4)","instructor":"Márcia Gonçalves","classroom":"9054/F"},{"department":"filosofia","subject":"História da Fil. Contemporânea II","subjectCode":"IFCH03-05159","classCode":"01","time":"6ª (M3-M4)","instructor":"Márcia Gonçalves","classroom":"9054/F"},{"department":"filosofia","subject":"História da Fil. Contemporânea II","subjectCode":"IFCH03-05159","classCode":"02","time":"3ª (N1-N4)","instructor":"Regina Schöpke","classroom":"9053/F"},{"department":"filosofia","subject":"Monografia I(disciplina do 7º período)","subjectCode":"IFCH03-06284","classCode":"01","time":"Sáb. (M1-M3)","instructor":"","classroom":"ver"},{"department":"filosofia","subject":"Monografia I(disciplina do 7º período)","subjectCode":"IFCH03-06284","classCode":"02","time":"Sáb. (T1-T3)","instructor":"","classroom":"com"},{"department":"filosofia","subject":"Monografia II","subjectCode":"IFCH03-06301","classCode":"01","time":"Sáb. (M4-M6)","instructor":"","classroom":"O"},{"department":"filosofia","subject":"Monografia II","subjectCode":"IFCH03-06301","classCode":"02","time":"Sáb. (T4-T6)","instructor":"","classroom":"prof."},{"department":"filosofia","subject":"Estágio Sup. em Filosofia I","subjectCode":"IFCH03-09874","classCode":"01","time":"4ª (M3-M4)","instructor":"Daniel Costa","classroom":"9059/F"},{"department":"filosofia","subject":"Estágio Sup. em Filosofia I","subjectCode":"IFCH03-09874","classCode":"01","time":"6ª (T1-T2)","instructor":"Daniel Costa","classroom":"9059/F"},{"department":"filosofia","subject":"Estágio Sup. em Filosofia I","subjectCode":"IFCH03-09874","classCode":"02","time":"5ª (T5-T6)","instructor":"Márcia do Amaral","classroom":"9104/F"},{"department":"filosofia","subject":"Estágio Sup. em Filosofia I","subjectCode":"IFCH03-09874","classCode":"02","time":"5ª (N3-N4)","instructor":"Márcia do Amaral","classroom":"9104/F"},{"department":"filosofia","subject":"Estágio Sup. em Filosofia II","subjectCode":"CAP05-08855","classCode":"01","time":"3ª (T2-T3)","instructor":"Ana Rosa","classroom":"Aula no CAP"},{"department":"filosofia","subject":"Estágio Sup. em Filosofia II","subjectCode":"CAP05-08855","classCode":"01","time":"4ª (T2-T3)","instructor":"Ana Rosa","classroom":"Aula no CAP"},{"department":"filosofia","subject":"Antropologia Filosófica II","subjectCode":"IFCH03-00471","classCode":"01","time":"5ª (N1-N2)","instructor":"Danillo Leite","classroom":"9054/F"},{"department":"filosofia","subject":"Antropologia Filosófica II","subjectCode":"IFCH03-00471","classCode":"01","time":"6ª (N1-N2)","instructor":"Danillo Leite","classroom":"9054/F"},{"department":"filosofia","subject":"Ética III","subjectCode":"IFCH03-01603","classCode":"01","time":"2ª (M5-M6)","instructor":"Vera Portocarrero","classroom":"9050/F"},{"department":"filosofia","subject":"Ética III","subjectCode":"IFCH03-01603","classCode":"01","time":"4ª (M5-M6)","instructor":"Vera Portocarrero","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia da Ciência IV","subjectCode":"IFCH03-02215","classCode":"01","time":"2ª (M3-M4)","instructor":"Vera Portocarrero","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia da Ciência IV","subjectCode":"IFCH03-02215","classCode":"01","time":"4ª (M3-M4)","instructor":"Vera Portocarrero","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia da Ciência IV","subjectCode":"IFCH03-02215","classCode":"02","time":"4ª (M1-M2)","instructor":"Antonio Augusto","classroom":"9053/F"},{"department":"filosofia","subject":"Filosofia da Ciência IV","subjectCode":"IFCH03-02215","classCode":"02","time":"6ª (M1-M2)","instructor":"Antonio Augusto","classroom":"9053/F"},{"department":"filosofia","subject":"Filosofia da História III","subjectCode":"IFCH03-02686","classCode":"02","time":"3ª (N1-N2)","instructor":"Márcia do Amaral","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia da História III","subjectCode":"IFCH03-02686","classCode":"02","time":"5ª (N1-N2)","instructor":"Márcia do Amaral","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia da Linguagem I","subjectCode":"IFCH03-02775","classCode":"01","time":"4ª (M3-M6)","instructor":"Marcos Rosa","classroom":"9062/F"},{"department":"filosofia","subject":"Filosofia da Linguagem III","subjectCode":"IFCH03-02975","classCode":"01","time":"2ª (M5-M6)","instructor":"Camila Jourdan","classroom":"9054/F"},{"department":"filosofia","subject":"Filosofia da Linguagem III","subjectCode":"IFCH03-02975","classCode":"01","time":"4ª (M5-M6)","instructor":"Camila Jourdan","classroom":"9054/F"},{"department":"filosofia","subject":"Filosofia da Natureza II","subjectCode":"IFCH03-03194","classCode":"01","time":"2ª (M3-M6)","instructor":"Marcos Rosa","classroom":"9053/F"},{"department":"filosofia","subject":"Filosofia Social e Política IV","subjectCode":"IFCH03-03686","classCode":"01","time":"2ª (N1-N4)","instructor":"Marcelo de Araújo","classroom":"9054/F"},{"department":"filosofia","subject":"Fil. Geral – Prob. Metafísicos IV","subjectCode":"IFCH03-04019","classCode":"01","time":"2ª (N1-N2)","instructor":"Fernando Maia","classroom":"9050/F"},{"department":"filosofia","subject":"Fil. Geral – Prob. Metafísicos IV","subjectCode":"IFCH03-04019","classCode":"01","time":"4ª (N1-N2)","instructor":"Fernando Maia","classroom":"9050/F"},{"department":"filosofia","subject":"Filosofia e História da Arte II","subjectCode":"IFCH03-04163","classCode":"01","time":"3ª (M5-M6)","instructor":"Marcela Figueiredo","classroom":"9053/F"},{"department":"filosofia","subject":"Filosofia e História da Arte II","subjectCode":"IFCH03-04163","classCode":"01","time":"5ª (M5-M6)","instructor":"Marcela Figueiredo","classroom":"9053/F"},{"department":"filosofia","subject":"Filosofia e História da Arte II","subjectCode":"IFCH03-04163","classCode":"02","time":"3ª (N1-N4)","instructor":"Naiara Paula","classroom":"9001/F"},{"department":"filosofia","subject":"Hist. da Fil.Contemporânea IV","subjectCode":"IFCH03-05228","classCode":"01","time":"5ª (N2-N5)","instructor":"","classroom":"Fac. de Serviço Social – 8º andar -Bloco D"},{"department":"filosofia","subject":"Hist. da Fil.Contemporânea IV","subjectCode":"IFCH03-05228","classCode":"02","time":"3ª (N1-N4)","instructor":"Paulo Gil","classroom":"9104/F"},{"department":"filosofia","subject":"História da Filosofiano Brasil II","subjectCode":"IFCH03-05446","classCode":"01","time":"5ª (M3-M6)","instructor":"Fabiano Britto","classroom":"9062/F"},{"department":"filosofia","subject":"História da Filosofia Oriental","subjectCode":"IFCH03-05490","classCode":"01","time":"5ª (N3-N4)","instructor":"Rogério Soares","classroom":"9050/F"},{"department":"filosofia","subject":"História da Filosofia Oriental","subjectCode":"IFCH03-05490","classCode":"01","time":"6ª (N3-N4)","instructor":"Rogério Soares","classroom":"9050/F"},{"department":"filosofia","subject":"Lógica III","subjectCode":"IFCH03-05695","classCode":"01","time":"5ª (M3-M6)","instructor":"Luiz Carlos","classroom":"9050/F"},{"department":"filosofia","subject":"Seminário I","subjectCode":"IFCH03-05900","classCode":"01","time":"2ª (M3-M6)","instructor":"Edgar Marques","classroom":"9062/F"}]
+[
+    {
+        "department": "filosofia",
+        "subject": "HESP II",
+        "subjectCode": "IFCH01-01554",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Priscila Weber",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "HESP II",
+        "subjectCode": "IFCH01-01554",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Priscila Weber",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "HESP II",
+        "subjectCode": "IFCH01-01554",
+        "T": "02",
+        "time": "3ª (N1-N2)",
+        "instructor": "José Roberto",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "HESP II",
+        "subjectCode": "IFCH01-01554",
+        "T": "02",
+        "time": "4ª (N1-N2)",
+        "instructor": "José Roberto",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Cultural IV",
+        "subjectCode": "IESP01-13865",
+        "T": "01",
+        "time": "3ª (M1-M4)",
+        "instructor": "",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Cultural IV",
+        "subjectCode": "IESP01-13865",
+        "T": "02",
+        "time": "6ª (N1-N4)",
+        "instructor": "",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte I",
+        "subjectCode": "IFCH03-04095",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Ricardo Barbosa",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte I",
+        "subjectCode": "IFCH03-04095",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Ricardo Barbosa",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte I",
+        "subjectCode": "IFCH03-04095",
+        "T": "02",
+        "time": "4ª (T6)",
+        "instructor": "Naiara Paula",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte I",
+        "subjectCode": "IFCH03-04095",
+        "T": "02",
+        "time": "4ª (N3-N5)",
+        "instructor": "Naiara Paula",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia Antiga II",
+        "subjectCode": "IFCH03-04432",
+        "T": "01",
+        "time": "2ª (M1-M4)",
+        "instructor": "Maria Inês",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia Antiga II",
+        "subjectCode": "IFCH03-04432",
+        "T": "02",
+        "time": "2ª (N3-N5)",
+        "instructor": "Felipe Gall",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia Antiga II",
+        "subjectCode": "IFCH03-04432",
+        "T": "02",
+        "time": "3ª (T6)",
+        "instructor": "Felipe Gall",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Introdução à Filosofia II",
+        "subjectCode": "IFCH03-05574",
+        "T": "01",
+        "time": "4ª (M3-M6)",
+        "instructor": "Fabiano Britto",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Introdução à Filosofia II",
+        "subjectCode": "IFCH03-05574",
+        "T": "02",
+        "time": "5ª (T6)",
+        "instructor": "Felipe Gall",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Introdução à Filosofia II",
+        "subjectCode": "IFCH03-05574",
+        "T": "02",
+        "time": "5ª (N3-N5)",
+        "instructor": "Felipe Gall",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lógica Clássica II",
+        "subjectCode": "IFCH03-05645",
+        "T": "01",
+        "time": "4ª (M1-M2)",
+        "instructor": "Luiz Carlos",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lógica Clássica II",
+        "subjectCode": "IFCH03-05645",
+        "T": "01",
+        "time": "5ª (M1-M2)",
+        "instructor": "Luiz Carlos",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lógica Clássica II",
+        "subjectCode": "IFCH03-05645",
+        "T": "02",
+        "time": "3ª (N3-N4)",
+        "instructor": "Tiago Alves",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lógica Clássica II",
+        "subjectCode": "IFCH03-05645",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "Tiago Alves",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Prát. e Metod. de Anál. de Textos Fil. II",
+        "subjectCode": "IFCH03-09866",
+        "T": "01",
+        "time": "2ª (M5-T2)",
+        "instructor": "Maria Inês",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Prát. e Metod. de Anál. de Textos Fil. II",
+        "subjectCode": "IFCH03-09866",
+        "T": "02",
+        "time": "2ª (T5-N2)",
+        "instructor": "Maria Inês",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética II",
+        "subjectCode": "IFCH03-01456",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Daniel Costa",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética II",
+        "subjectCode": "IFCH03-01456",
+        "T": "01",
+        "time": "6ª (M5-M6)",
+        "instructor": "Daniel Costa",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética II",
+        "subjectCode": "IFCH03-01456",
+        "T": "02",
+        "time": "2ª (N1-N2)",
+        "instructor": "Naiara Paula",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética II",
+        "subjectCode": "IFCH03-01456",
+        "T": "02",
+        "time": "4ª (N1-N2)",
+        "instructor": "Naiara Paula",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral Prob. Metafísicos I",
+        "subjectCode": "IFCH03-03758",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Casa Nova",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral Prob. Metafísicos I",
+        "subjectCode": "IFCH03-03758",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Casa Nova",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral Prob. Metafísicos I",
+        "subjectCode": "IFCH03-03758",
+        "T": "02",
+        "time": "2ª (N3-N4)",
+        "instructor": "Fernando Maia",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral Prob. Metafísicos I",
+        "subjectCode": "IFCH03-03758",
+        "T": "02",
+        "time": "4ª (N3-N4)",
+        "instructor": "Fernando Maia",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Medieval II",
+        "subjectCode": "IFCH03-04705",
+        "T": "01",
+        "time": "3ª (M1-M2)",
+        "instructor": "Alexandre Cabral",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Medieval II",
+        "subjectCode": "IFCH03-04705",
+        "T": "01",
+        "time": "5ª (M1-M2)",
+        "instructor": "Alexandre Cabral",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Medieval II",
+        "subjectCode": "IFCH03-04705",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "Rogério Soares",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Medieval II",
+        "subjectCode": "IFCH03-04705",
+        "T": "02",
+        "time": "6ª (N1-N2)",
+        "instructor": "Rogério Soares",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Teoria do Conhecimento II",
+        "subjectCode": "IFCH03-06048",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Antonio Augusto",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Teoria do Conhecimento II",
+        "subjectCode": "IFCH03-06048",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Antonio Augusto",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Teoria do Conhecimento II",
+        "subjectCode": "IFCH03-06048",
+        "T": "02",
+        "time": "5ª (N3-N4)",
+        "instructor": "Danillo Leite",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Teoria do Conhecimento II",
+        "subjectCode": "IFCH03-06048",
+        "T": "02",
+        "time": "6ª (N3-N4)",
+        "instructor": "Danillo Leite",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Prát. Pedagógica em Filosofia I",
+        "subjectCode": "CAP05- 08856",
+        "T": "01",
+        "time": "4ª (M1-M4)",
+        "instructor": "Maria Helena",
+        "classroom": "909 /F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia I",
+        "subjectCode": "IFCH03-06284",
+        "T": "01",
+        "time": "Sáb. (M1-M3)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia I",
+        "subjectCode": "IFCH03-06284",
+        "T": "02",
+        "time": "Sáb. (T1-T3)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia II (disciplina do 8º período)",
+        "subjectCode": "IFCH03-06301",
+        "T": "01",
+        "time": "Sáb. (M4-M6)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia II (disciplina do 8º período)",
+        "subjectCode": "IFCH03-06301",
+        "T": "02",
+        "time": "Sáb. (T4-T6)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Supervisionado",
+        "subjectCode": "CAP05-08854",
+        "T": "01",
+        "time": "3ª (M3-M6)",
+        "instructor": "Rachel Martins",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Supervisionado",
+        "subjectCode": "CAP05-08854",
+        "T": "01",
+        "time": "5ª (N1-N2)",
+        "instructor": "Rachel Martins",
+        "classroom": "9104/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Prát. Pedagógica em Filosofia II",
+        "subjectCode": "CAP05-08857",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Maria Helena",
+        "classroom": "909 /F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Supervisionado",
+        "subjectCode": "CAP05-08855",
+        "T": "01",
+        "time": "3ª (T2-T3)",
+        "instructor": "Ana Rosa",
+        "classroom": "Aula no CAP"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Supervisionado",
+        "subjectCode": "CAP05-08855",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Ana Rosa",
+        "classroom": "Aula no CAP"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Supervisionado",
+        "subjectCode": "CAP05-08964",
+        "T": "01",
+        "time": "4ª (N1-N4)",
+        "instructor": "Vladimir Ribeiro",
+        "classroom": "9104/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Moderna II",
+        "subjectCode": "IFCH03-04915",
+        "T": "01",
+        "time": "2ª (M3-M4)",
+        "instructor": "Marcos Gleizer",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Moderna II",
+        "subjectCode": "IFCH03-04915",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Marcos Gleizer",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Moderna II",
+        "subjectCode": "IFCH03-04915",
+        "T": "02",
+        "time": "3ª (N1-N2)",
+        "instructor": "Tiago Alves",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Moderna II",
+        "subjectCode": "IFCH03-04915",
+        "T": "02",
+        "time": "5ª (N3-N4)",
+        "instructor": "Tiago Alves",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Filosófica I",
+        "subjectCode": "IFCH03-00106",
+        "T": "01",
+        "time": "6ª (M3-M6)",
+        "instructor": "Camila Jourdan",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Filosófica I",
+        "subjectCode": "IFCH03-00106",
+        "T": "02",
+        "time": "4ª (N1-N4)",
+        "instructor": "",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lab. de Prát. de Ens. da Fil. II",
+        "subjectCode": "IFCH03-09868",
+        "T": "01",
+        "time": "2ª (T1-T2)",
+        "instructor": "",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lab. de Prát. de Ens. da Fil. II",
+        "subjectCode": "IFCH03-09868",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lab. de Prát. de Ens. da Fil. II",
+        "subjectCode": "IFCH03-09868",
+        "T": "02",
+        "time": "3ª (T5-T6)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lab. de Prát. de Ens. da Fil. II",
+        "subjectCode": "IFCH03-09868",
+        "T": "02",
+        "time": "3ª (N3-N4)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Prát. Ped. em Filosofia II",
+        "subjectCode": "CAp05-08857",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Maria Helena",
+        "classroom": "909 /F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Contemporânea II",
+        "subjectCode": "IFCH03-05159",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Márcia Gonçalves",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Contemporânea II",
+        "subjectCode": "IFCH03-05159",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Márcia Gonçalves",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Fil. Contemporânea II",
+        "subjectCode": "IFCH03-05159",
+        "T": "02",
+        "time": "3ª (N1-N4)",
+        "instructor": "Regina Schöpke",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia I (disciplina do 7º período)",
+        "subjectCode": "IFCH03-06284",
+        "T": "01",
+        "time": "Sáb. (M1-M3)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia I (disciplina do 7º período)",
+        "subjectCode": "IFCH03-06284",
+        "T": "02",
+        "time": "Sáb. (T1-T3)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia II",
+        "subjectCode": "IFCH03-06301",
+        "T": "01",
+        "time": "Sáb. (M4-M6)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Monografia II",
+        "subjectCode": "IFCH03-06301",
+        "T": "02",
+        "time": "Sáb. (T4-T6)",
+        "instructor": "",
+        "classroom": "Ver c/ Prof."
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia I",
+        "subjectCode": "IFCH03-09874",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Daniel Costa",
+        "classroom": "9059/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia I",
+        "subjectCode": "IFCH03-09874",
+        "T": "01",
+        "time": "6ª (T1-T2)",
+        "instructor": "Daniel Costa",
+        "classroom": "9059/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia I",
+        "subjectCode": "IFCH03-09874",
+        "T": "02",
+        "time": "5ª (T5-T6)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9104/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia I",
+        "subjectCode": "IFCH03-09874",
+        "T": "02",
+        "time": "5ª (N3-N4)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9104/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia II",
+        "subjectCode": "CAP05-08855",
+        "T": "01",
+        "time": "3ª (T2-T3)",
+        "instructor": "Ana Rosa",
+        "classroom": "Aula no CAP"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Estágio Sup. em Filosofia II",
+        "subjectCode": "CAP05-08855",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Ana Rosa",
+        "classroom": "Aula no CAP"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Filosófica II",
+        "subjectCode": "IFCH03-00471",
+        "T": "01",
+        "time": "5ª (N1-N2)",
+        "instructor": "Danillo Leite",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Antropologia Filosófica II",
+        "subjectCode": "IFCH03-00471",
+        "T": "01",
+        "time": "6ª (N1-N2)",
+        "instructor": "Danillo Leite",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética III",
+        "subjectCode": "IFCH03-01603",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Vera Portocarrero",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Ética III",
+        "subjectCode": "IFCH03-01603",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Vera Portocarrero",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Ciência IV",
+        "subjectCode": "IFCH03-02215",
+        "T": "01",
+        "time": "2ª (M3-M4)",
+        "instructor": "Vera Portocarrero",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Ciência IV",
+        "subjectCode": "IFCH03-02215",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Vera Portocarrero",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Ciência IV",
+        "subjectCode": "IFCH03-02215",
+        "T": "02",
+        "time": "4ª (M1-M2)",
+        "instructor": "Antonio Augusto",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Ciência IV",
+        "subjectCode": "IFCH03-02215",
+        "T": "02",
+        "time": "6ª (M1-M2)",
+        "instructor": "Antonio Augusto",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da História III",
+        "subjectCode": "IFCH03-02686",
+        "T": "02",
+        "time": "3ª (N1-N2)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da História III",
+        "subjectCode": "IFCH03-02686",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "Márcia do Amaral",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Linguagem I",
+        "subjectCode": "IFCH03-02775",
+        "T": "01",
+        "time": "4ª (M3-M6)",
+        "instructor": "Marcos Rosa",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Linguagem III",
+        "subjectCode": "IFCH03-02975",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Camila Jourdan",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Linguagem III",
+        "subjectCode": "IFCH03-02975",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Camila Jourdan",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia da Natureza II",
+        "subjectCode": "IFCH03-03194",
+        "T": "01",
+        "time": "2ª (M3-M6)",
+        "instructor": "Marcos Rosa",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia Social e Política IV",
+        "subjectCode": "IFCH03-03686",
+        "T": "01",
+        "time": "2ª (N1-N4)",
+        "instructor": "Marcelo de Araújo",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral – Prob. Metafísicos IV",
+        "subjectCode": "IFCH03-04019",
+        "T": "01",
+        "time": "2ª (N1-N2)",
+        "instructor": "Fernando Maia",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Fil. Geral – Prob. Metafísicos IV",
+        "subjectCode": "IFCH03-04019",
+        "T": "01",
+        "time": "4ª (N1-N2)",
+        "instructor": "Fernando Maia",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte II",
+        "subjectCode": "IFCH03-04163",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Marcela Figueiredo",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte II",
+        "subjectCode": "IFCH03-04163",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Marcela Figueiredo",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Filosofia e História da Arte II",
+        "subjectCode": "IFCH03-04163",
+        "T": "02",
+        "time": "3ª (N1-N4)",
+        "instructor": "Naiara Paula",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Hist. da Fil. Contemporânea IV",
+        "subjectCode": "IFCH03-05228",
+        "T": "01",
+        "time": "5ª (N2-N5)",
+        "instructor": "",
+        "classroom": "Fac. de Serviço Social – 8º andar -Bloco D"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Hist. da Fil. Contemporânea IV",
+        "subjectCode": "IFCH03-05228",
+        "T": "02",
+        "time": "3ª (N1-N4)",
+        "instructor": "Paulo Gil",
+        "classroom": "9104/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia no Brasil II",
+        "subjectCode": "IFCH03-05446",
+        "T": "01",
+        "time": "5ª (M3-M6)",
+        "instructor": "Fabiano Britto",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia Oriental",
+        "subjectCode": "IFCH03-05490",
+        "T": "01",
+        "time": "5ª (N3-N4)",
+        "instructor": "Rogério Soares",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "História da Filosofia Oriental",
+        "subjectCode": "IFCH03-05490",
+        "T": "01",
+        "time": "6ª (N3-N4)",
+        "instructor": "Rogério Soares",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Lógica III",
+        "subjectCode": "IFCH03-05695",
+        "T": "01",
+        "time": "5ª (M3-M6)",
+        "instructor": "Luiz Carlos",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "filosofia",
+        "subject": "Seminário I",
+        "subjectCode": "IFCH03-05900",
+        "T": "01",
+        "time": "2ª (M3-M6)",
+        "instructor": "Edgar Marques",
+        "classroom": "9062/F"
+    }
+]
