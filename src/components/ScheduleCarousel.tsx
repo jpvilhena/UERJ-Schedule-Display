@@ -6,7 +6,7 @@ import { NextClasses } from './NextClasses';
 import { YoutubePlayerComponent } from './YoutubePlayer';
 import './ScheduleCarousel.css';
 
-const INTERVAL_MS = 20_000; // 20 seconds
+const INTERVAL_MS = 2_000; // 20 seconds
 
 export function ScheduleCarousel() {
   const [idx, setIdx] = useState(0);
