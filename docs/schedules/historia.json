@@ -1,224 +1,692 @@
 [
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Teoria e Met. da História I",
-        "subjectCode": "IFCH01-10142",
-        "T": "01",
-        "time": "5ª (T3-T6)",
-        "instructor": "Henrique Gaio",
-        "classroom": "9015/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em Hist. da Antiguidade I",
-        "subjectCode": "IFCH01-10152",
+        "subject": "História da Ant. Ocidental",
+        "subjectCode": "IFCH01- 01235",
         "T": "01",
         "time": "3ª (M5-M6)",
-        "instructor": "",
+        "instructor": "Maria R. Cândido",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. da Antiguidade I",
-        "subjectCode": "IFCH01-10152",
+        "subject": "História da Ant. Ocidental",
+        "subjectCode": "IFCH01- 01235",
         "T": "01",
         "time": "5ª (M5-M6)",
+        "instructor": "Maria R. Cândido",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Ant. Ocidental",
+        "subjectCode": "IFCH01- 01235",
+        "T": "02",
+        "time": "2ª (N4-N5)",
         "instructor": "",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. da Antiguidade II",
-        "subjectCode": "IFCH01-10153",
+        "subject": "História da Ant. Ocidental",
+        "subjectCode": "IFCH01- 01235",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Ant. Oriental",
+        "subjectCode": "IFCH01- 01380",
         "T": "01",
-        "time": "2ª (T2-T5)",
+        "time": "2ª (M1-M2)",
         "instructor": "André Bueno",
-        "classroom": "9019/F"
+        "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. da Antiguidade VI",
-        "subjectCode": "IFCH01-10157",
+        "subject": "História da Ant. Oriental",
+        "subjectCode": "IFCH01- 01380",
         "T": "01",
-        "time": "4ª (T2-T5)",
+        "time": "4ª (M1-M2)",
+        "instructor": "André Bueno",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Ant. Oriental",
+        "subjectCode": "IFCH01- 01380",
+        "T": "02",
+        "time": "3ª (N1-N3)",
         "instructor": "José Roberto",
-        "classroom": "9009/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média I",
-        "subjectCode": "IFCH01-10158",
-        "T": "01",
-        "time": "2ª (M3-M4)",
-        "instructor": "Miriam Lourdes",
-        "classroom": "9009/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média I",
-        "subjectCode": "IFCH01-10158",
-        "T": "01",
-        "time": "6ª (M5-M6)",
-        "instructor": "Miriam Lourdes",
-        "classroom": "9009/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média II",
-        "subjectCode": "IFCH01-10159",
-        "T": "01",
-        "time": "2ª (N3-N5)",
-        "instructor": "Rodrigo Rainha",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média II",
-        "subjectCode": "IFCH01-10159",
-        "T": "01",
-        "time": "6ª (N3)",
-        "instructor": "Rodrigo Rainha",
+        "subject": "História da Ant. Oriental",
+        "subjectCode": "IFCH01- 01380",
+        "T": "02",
+        "time": "5ª (N3)",
+        "instructor": "José Roberto",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em História do Brasil IV",
-        "subjectCode": "IFCH01-10163",
+        "subject": "Int. aos Estudos Históricos I",
+        "subjectCode": "IFCH01- 03661",
         "T": "01",
         "time": "3ª (M3-M4)",
-        "instructor": "Camila Borges",
-        "classroom": "9015/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História do Brasil IV",
-        "subjectCode": "IFCH01-10163",
-        "T": "01",
-        "time": "4ª (M1-M2)",
-        "instructor": "Camila Borges",
-        "classroom": "9015/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História do Brasil V",
-        "subjectCode": "IFCH01-10164",
-        "T": "01",
-        "time": "3ª (T2-T5)",
-        "instructor": "Izabel da Silva",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História do Brasil IX",
-        "subjectCode": "IFCH01-10168",
-        "T": "01",
-        "time": "3ª (N3-N4)",
-        "instructor": "cancelada",
-        "classroom": ""
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História do Brasil IX",
-        "subjectCode": "IFCH01-10168",
-        "T": "01",
-        "time": "4ª (N1-N2)",
-        "instructor": "cancelada",
-        "classroom": ""
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História da América I",
-        "subjectCode": "IFCH01-10175",
-        "T": "01",
-        "time": "5ª (T5-T6)",
-        "instructor": "Alexandre Belmonte",
-        "classroom": "9058/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História da América I",
-        "subjectCode": "IFCH01-10175",
-        "T": "01",
-        "time": "6ª (T5-T6)",
-        "instructor": "Alexandre Belmonte",
+        "instructor": "Francisco de Sousa",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média IV",
-        "subjectCode": "IFCH01-10185",
+        "subject": "Int. aos Estudos Históricos I",
+        "subjectCode": "IFCH01- 03661",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Francisco de Sousa",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Int. aos Estudos Históricos I",
+        "subjectCode": "IFCH01- 03661",
+        "T": "02",
+        "time": "2ª (N1-N3)",
+        "instructor": "Lorelai",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Int. aos Estudos Históricos I",
+        "subjectCode": "IFCH01- 03661",
+        "T": "02",
+        "time": "4ª (N5)",
+        "instructor": "Lorelai",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Filosofia I",
+        "subjectCode": "IFCH03- 05537",
+        "T": "03",
+        "time": "4ª (M3-M4)",
+        "instructor": "",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Filosofia I",
+        "subjectCode": "IFCH03- 05537",
+        "T": "03",
+        "time": "6ª (M5-M6)",
+        "instructor": "",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Filosofia I",
+        "subjectCode": "IFCH03- 05537",
+        "T": "04",
+        "time": "4ª (N1-N2)",
+        "instructor": "",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Filosofia I",
+        "subjectCode": "IFCH03- 05537",
+        "T": "04",
+        "time": "5ª (N4-N5)",
+        "instructor": "",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Antropologia",
+        "subjectCode": "IESP01- 13864",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Breno Marques",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Antropologia",
+        "subjectCode": "IESP01- 13864",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Breno Marques",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Antropologia",
+        "subjectCode": "IESP01- 13864",
+        "T": "02",
+        "time": "3ª (N5)",
+        "instructor": "Luiz Augusto",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Introdução à Antropologia",
+        "subjectCode": "IESP01- 13864",
+        "T": "02",
+        "time": "6ª (N3-N5)",
+        "instructor": "Luiz Augusto",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sociologia I",
+        "subjectCode": "IESP01- 13841",
         "T": "01",
         "time": "2ª (M3-M4)",
-        "instructor": "Marta Silveira",
+        "instructor": "João Júnior",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média IV",
-        "subjectCode": "IFCH01-10185",
+        "subject": "Sociologia I",
+        "subjectCode": "IESP01- 13841",
         "T": "01",
-        "time": "4ª (M1-M2)",
-        "instructor": "Marta Silveira",
+        "time": "4ª (M5-M6)",
+        "instructor": "João Júnior",
         "classroom": "9038/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Idade Média VI",
-        "subjectCode": "IFCH01-10187",
+        "subject": "Sociologia I",
+        "subjectCode": "IESP01- 13841",
+        "T": "02",
+        "time": "4ª (N3-N4)",
+        "instructor": "Fabiano Santos",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sociologia I",
+        "subjectCode": "IESP01- 13841",
+        "T": "02",
+        "time": "6ª (N1-N2)",
+        "instructor": "Fabiano Santos",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Moderna I",
+        "subjectCode": "IFCH01- 03018",
         "T": "01",
-        "time": "3ª (T3-T6)",
-        "instructor": "Wendell Veloso",
+        "time": "2ª (M3-M4)",
+        "instructor": "Alex Varela",
         "classroom": "9009/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em História Moderna VI",
-        "subjectCode": "IFCH01-10188",
+        "subject": "História Moderna I",
+        "subjectCode": "IFCH01- 03018",
         "T": "01",
-        "time": "4ª (N3-N4)",
-        "instructor": "Fabiano Vilaça",
-        "classroom": "9019/F"
+        "time": "3ª (M3-M4)",
+        "instructor": "Alex Varela",
+        "classroom": "9009/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em História Moderna VI",
-        "subjectCode": "IFCH01-10188",
-        "T": "01",
-        "time": "6ª (N1-N2)",
+        "subject": "História Moderna I",
+        "subjectCode": "IFCH01- 03018",
+        "T": "02",
+        "time": "4ª (N1-N3)",
         "instructor": "Fabiano Vilaça",
-        "classroom": "9019/F"
+        "classroom": "9009/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em História Moderna V",
-        "subjectCode": "IFCH01-10189",
+        "subject": "História Moderna I",
+        "subjectCode": "IFCH01- 03018",
+        "T": "02",
+        "time": "6ª (N5)",
+        "instructor": "Fabiano Vilaça",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Id. Média II A",
+        "subjectCode": "IFCH01- 10063",
         "T": "01",
-        "time": "4ª (T2-T5)",
-        "instructor": "Nívia Pombo",
+        "time": "2ª (M1-M2)",
+        "instructor": "Marta Silveira",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Id. Média II A",
+        "subjectCode": "IFCH01- 10063",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Marta Silveira",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Id. Média II A",
+        "subjectCode": "IFCH01- 10063",
+        "T": "02",
+        "time": "2ª (N3-N5)",
+        "instructor": "Rodrigo Rainha",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da Id. Média II A",
+        "subjectCode": "IFCH01- 10063",
+        "T": "02",
+        "time": "6ª (N1)",
+        "instructor": "Rodrigo Rainha",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da América II A",
+        "subjectCode": "IFCH01- 10069",
+        "T": "01",
+        "time": "5ª (M1-M2)",
+        "instructor": "Alexandre Belmonte",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da América II A",
+        "subjectCode": "IFCH01- 10069",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Alexandre Belmonte",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da América II A",
+        "subjectCode": "IFCH01- 10069",
+        "T": "02",
+        "time": "2ª (N1-N2)",
+        "instructor": "Rafael de Araújo",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da América II A",
+        "subjectCode": "IFCH01- 10069",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "Rafael de Araújo",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Vivian Fonseca",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Vivian Fonseca",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "02",
+        "time": "3ª (N4-N5)",
+        "instructor": "",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "02",
+        "time": "4ª (N4-N5)",
+        "instructor": "",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "03",
+        "time": "3ª (N1-N2)",
+        "instructor": "Rodrigo Rainha",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "03",
+        "time": "6ª (N3-N4)",
+        "instructor": "Rodrigo Rainha",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "04",
+        "time": "2ª (T1-T2)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Laboratório de História II",
+        "subjectCode": "IFCH01- 10095",
+        "T": "04",
+        "time": "4ª (T1-T2)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da América IV A",
+        "subjectCode": "IFCH01- 10071",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Eduardo Ferraz",
         "classroom": "9015/F"
     },
     {
         "department": "historia",
-        "subject": "O Ensino da História e a",
-        "subjectCode": "CAP05-08914",
+        "subject": "História da América IV A",
+        "subjectCode": "IFCH01- 10071",
         "T": "01",
-        "time": "4ª (M5-T2)",
-        "instructor": "Alcidésio",
-        "classroom": "9059/F"
+        "time": "5ª (M5-M6)",
+        "instructor": "Eduardo Ferraz",
+        "classroom": "9015/F"
     },
     {
         "department": "historia",
-        "subject": "História da Questão Racial",
-        "subjectCode": "CAP05-08915",
-        "T": "01",
-        "time": "3ª (N1-N4)",
-        "instructor": "Helena Araújo",
-        "classroom": "9024/F"
+        "subject": "História da América IV A",
+        "subjectCode": "IFCH01- 10071",
+        "T": "02",
+        "time": "3ª (N1-N2)",
+        "instructor": "Eduardo Ferraz",
+        "classroom": "9015/F"
     },
     {
         "department": "historia",
-        "subject": "História do Brasil V",
-        "subjectCode": "IFCH01-02493",
+        "subject": "História da América IV A",
+        "subjectCode": "IFCH01- 10071",
+        "T": "02",
+        "time": "5ª (N1-N2)",
+        "instructor": "Eduardo Ferraz",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Arquivística",
+        "subjectCode": "IFCH01- 10087",
+        "T": "01",
+        "time": "3ª (M1-M2)",
+        "instructor": "Priscila Aquino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Arquivística",
+        "subjectCode": "IFCH01- 10087",
+        "T": "01",
+        "time": "5ª (M1-M2)",
+        "instructor": "Priscila Aquino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Arquivística",
+        "subjectCode": "IFCH01- 10087",
+        "T": "02",
+        "time": "4ª (N5)",
+        "instructor": "Priscila Aquino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Arquivística",
+        "subjectCode": "IFCH01- 10087",
+        "T": "02",
+        "time": "6ª (N3-N5)",
+        "instructor": "Priscila Aquino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Rio de Janeiro",
+        "subjectCode": "IFCH01- 10129",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Monique Gonçalves",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Rio de Janeiro",
+        "subjectCode": "IFCH01- 10129",
+        "T": "01",
+        "time": "6ª (M5-M6)",
+        "instructor": "Monique Gonçalves",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Rio de Janeiro",
+        "subjectCode": "IFCH01- 10129",
+        "T": "02",
+        "time": "5ª (N3-N4)",
+        "instructor": "Carlos Eduardo",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Rio de Janeiro",
+        "subjectCode": "IFCH01- 10129",
+        "T": "02",
+        "time": "6ª (N1-N2)",
+        "instructor": "Carlos Eduardo",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Brasil II A",
+        "subjectCode": "IFCH01- 10074",
+        "T": "01",
+        "time": "4ª (M1-M2)",
+        "instructor": "Daiane Alves",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Brasil II A",
+        "subjectCode": "IFCH01- 10074",
+        "T": "01",
+        "time": "6ª (M1-M2)",
+        "instructor": "Daiane Alves",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Brasil II A",
+        "subjectCode": "IFCH01- 10074",
+        "T": "02",
+        "time": "2ª (N1-N3)",
+        "instructor": "Marcia Amantino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Brasil II A",
+        "subjectCode": "IFCH01- 10074",
+        "T": "02",
+        "time": "3ª (N3)",
+        "instructor": "Marcia Amantino",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea I",
+        "subjectCode": "IFCH01- 03139",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Nivia Pombo",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea I",
+        "subjectCode": "IFCH01- 03139",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Nivia Pombo",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea I",
+        "subjectCode": "IFCH01- 03139",
+        "T": "02",
+        "time": "3ª (N4-N5)",
+        "instructor": "Flaviano",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea I",
+        "subjectCode": "IFCH01- 03139",
+        "T": "02",
+        "time": "4ª (N3-N4)",
+        "instructor": "Flaviano",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Historiografia I",
+        "subjectCode": "IFCH01- 03491",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Beatriz Vieira",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Historiografia I",
+        "subjectCode": "IFCH01- 03491",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Beatriz Vieira",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Historiografia I",
+        "subjectCode": "IFCH01- 03491",
+        "T": "02",
+        "time": "2ª (N4-N5)",
+        "instructor": "Lorelai",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Historiografia I",
+        "subjectCode": "IFCH01- 03491",
+        "T": "02",
+        "time": "4ª (N1-N2)",
+        "instructor": "Lorelai",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea III A",
+        "subjectCode": "IFCH01- 10067",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "André Azevedo",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea III A",
+        "subjectCode": "IFCH01- 10067",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "André Azevedo",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea III A",
+        "subjectCode": "IFCH01- 10067",
+        "T": "02",
+        "time": "3ª (N1-N2)",
+        "instructor": "Flaviano",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História Contemporânea III A",
+        "subjectCode": "IFCH01- 10067",
+        "T": "02",
+        "time": "4ª (N1-N2)",
+        "instructor": "Flaviano",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da África",
+        "subjectCode": "IFCH01- 10068",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Ângela Roberti",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da África",
+        "subjectCode": "IFCH01- 10068",
+        "T": "01",
+        "time": "6ª (M3-M4)",
+        "instructor": "Ângela Roberti",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da África",
+        "subjectCode": "IFCH01- 10068",
+        "T": "02",
+        "time": "2ª (N1-N2)",
+        "instructor": "Washington",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História da África",
+        "subjectCode": "IFCH01- 10068",
+        "T": "02",
+        "time": "4ª (N3-N4)",
+        "instructor": "Washington",
+        "classroom": "9019/F"
+    },
+    {
+        "department": "historia",
+        "subject": "História do Brasil IV A",
+        "subjectCode": "IFCH01- 10076",
         "T": "01",
         "time": "2ª (M5-M6)",
         "instructor": "Tatyana Maia",
@@ -226,290 +694,499 @@
     },
     {
         "department": "historia",
-        "subject": "História do Brasil V",
-        "subjectCode": "IFCH01-02493",
+        "subject": "História do Brasil IV A",
+        "subjectCode": "IFCH01- 10076",
         "T": "01",
-        "time": "4ª (M5-M6)",
+        "time": "6ª (M5-M6)",
         "instructor": "Tatyana Maia",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "História do Brasil V",
-        "subjectCode": "IFCH01-02493",
+        "subject": "História do Brasil IV A",
+        "subjectCode": "IFCH01- 10076",
         "T": "02",
-        "time": "3ª (N5)",
+        "time": "3ª (N3-N4)",
         "instructor": "Marcus Dezemone",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "História do Brasil V",
-        "subjectCode": "IFCH01-02493",
+        "subject": "História do Brasil IV A",
+        "subjectCode": "IFCH01- 10076",
         "T": "02",
-        "time": "5ª (N1-N3)",
+        "time": "5ª (N3-N4)",
         "instructor": "Marcus Dezemone",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado I",
-        "subjectCode": "IFCH01-10099",
+        "subject": "Pesquisa Histórica",
+        "subjectCode": "IFCH01- 10089",
         "T": "01",
         "time": "3ª (M5-M6)",
-        "instructor": "Vivian Fonseca",
-        "classroom": "9028/F"
+        "instructor": "Beatriz Vieira",
+        "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado I",
-        "subjectCode": "IFCH01-10099",
+        "subject": "Pesquisa Histórica",
+        "subjectCode": "IFCH01- 10089",
         "T": "01",
-        "time": "5ª (M5-M6)",
-        "instructor": "Vivian Fonseca",
-        "classroom": "9028/F"
+        "time": "4ª (M5-M6)",
+        "instructor": "Beatriz Vieira",
+        "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado I",
-        "subjectCode": "IFCH01-10099",
+        "subject": "Pesquisa Histórica",
+        "subjectCode": "IFCH01- 10089",
         "T": "02",
-        "time": "3ª (N1-N2)",
+        "time": "3ª (N5)",
         "instructor": "Livia Beatriz",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado I",
-        "subjectCode": "IFCH01-10099",
+        "subject": "Pesquisa Histórica",
+        "subjectCode": "IFCH01- 10089",
         "T": "02",
-        "time": "6ª (N4-N5)",
+        "time": "6ª (N1-N3)",
         "instructor": "Livia Beatriz",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História II",
-        "subjectCode": "CAP05-08853",
+        "subject": "Monografia A",
+        "subjectCode": "IFCH01-",
         "T": "01",
-        "time": "3ª (M4-T1)",
-        "instructor": "William Vaz",
-        "classroom": "9050/F"
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Washington",
+        "classroom": "Ver com"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História II",
-        "subjectCode": "CAP05-08853",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
         "T": "02",
-        "time": "2ª (T3-T4) ver c/ prof.",
-        "instructor": "Hilton",
-        "classroom": "9001/F"
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Alessandra Gonzalez",
+        "classroom": "Ver c/ Prof."
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História II",
-        "subjectCode": "CAP05-08853",
-        "T": "02",
-        "time": "2ª (N1-N2)",
-        "instructor": "Hilton",
-        "classroom": "9001/F"
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "03",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Priscila Weber",
+        "classroom": "seu"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História I",
-        "subjectCode": "CAP05-08852",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "04",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Marcia Amantino",
+        "classroom": "orien-"
+    },
+    {
+        "department": "historia",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "05",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Mário Brum",
+        "classroom": ""
+    },
+    {
+        "department": "historia",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "06",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Marieta Pinheiro",
+        "classroom": ""
+    },
+    {
+        "department": "historia",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "07",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Wendell Veloso",
+        "classroom": ""
+    },
+    {
+        "department": "historia",
+        "subject": "Monografia A",
+        "subjectCode": "10091",
+        "T": "08",
+        "time": "Sáb. (M2-T3)",
+        "instructor": "Renata Silva",
+        "classroom": ""
+    },
+    {
+        "department": "historia",
+        "subject": "Sem. Esp. em História América IX",
+        "subjectCode": "IFCH01- 10183",
         "T": "01",
-        "time": "4ª (M3-T2)",
-        "instructor": "Andrea Galucio",
+        "time": "4ª (T3-T6)",
+        "instructor": "Alessandra Gonzalez",
         "classroom": "9009/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História I",
-        "subjectCode": "CAP05-08852",
-        "T": "02",
-        "time": "5ª (T4-T6) ver c/ prof.",
-        "instructor": "Leonardo Padilha",
-        "classroom": "9028/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Estágio Sup. em História I",
-        "subjectCode": "CAP05-08852",
-        "T": "02",
-        "time": "3ª (N3-N5)",
-        "instructor": "Leonardo Padilha",
-        "classroom": "9028/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Estágio Supervisionado II",
-        "subjectCode": "IFCH01-10100",
+        "subject": "Sem. Esp. em Hist. Idade Média IV",
+        "subjectCode": "IFCH01- 10185",
         "T": "01",
-        "time": "3ª (M3-M4)",
-        "instructor": "Mário Brum",
-        "classroom": "9028/F"
+        "time": "2ª (M5-M6)",
+        "instructor": "Marta Silveira",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado II",
-        "subjectCode": "IFCH01-10100",
+        "subject": "Sem. Esp. em Hist. Idade Média IV",
+        "subjectCode": "IFCH01- 10185",
         "T": "01",
-        "time": "5ª (M1-M4)",
-        "instructor": "Mário Brum",
-        "classroom": "9028/F"
+        "time": "4ª (M3-M4)",
+        "instructor": "Marta Silveira",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado II",
-        "subjectCode": "IFCH01-10100",
-        "T": "02",
-        "time": "6ª (T5-N2)ver c/ prof.",
-        "instructor": "Renata Silva",
+        "subject": "Sem. Esp. em Hist. Idade Média VI",
+        "subjectCode": "IFCH01- 10187",
+        "T": "01",
+        "time": "2ª (M3-M4)",
+        "instructor": "Miriam Lourdes",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Supervisionado II",
-        "subjectCode": "IFCH01-10100",
-        "T": "02",
-        "time": "5ª (N4-N5)",
-        "instructor": "Renata Silva",
+        "subject": "Sem. Esp. em Hist. Idade Média VI",
+        "subjectCode": "IFCH01- 10187",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Miriam Lourdes",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História III",
-        "subjectCode": "CAP05-08963",
+        "subject": "Sem. Esp. em Hist. Moderna II",
+        "subjectCode": "IFCH01- 10192",
         "T": "01",
-        "time": "3ª (T1-T2) ver c/ profª",
-        "instructor": "Vivian Zampa",
-        "classroom": "9050/F"
+        "time": "2ª (T1-T4)",
+        "instructor": "Alex Varela",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História III",
-        "subjectCode": "CAP05-08963",
+        "subject": "Sem. Esp. em Hist. Contemporânea II",
+        "subjectCode": "IFCH01- 10196",
         "T": "01",
-        "time": "3ª (M1-M2)",
-        "instructor": "Vivian Zampa",
-        "classroom": "9050/F"
+        "time": "3ª (M5-M6)",
+        "instructor": "André Azevedo",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Estágio Sup. em História III",
-        "subjectCode": "CAP05-08963",
-        "T": "02",
-        "time": "5ª (T1-T2) ver c/ profª",
-        "instructor": "Barbara Machado",
-        "classroom": "9028/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Estágio Sup. em História III",
-        "subjectCode": "CAP05-08963",
-        "T": "02",
-        "time": "3ª (N1-N2)",
-        "instructor": "Barbara Machado",
-        "classroom": "9028/F"
-    },
-    {
-        "department": "historia",
-        "subject": "Sem. Esp. em História Moderna III",
-        "subjectCode": "IFCH01-10191",
+        "subject": "Sem. Esp. em Hist. Contemporânea II",
+        "subjectCode": "IFCH01- 10196",
         "T": "01",
-        "time": "2ª (T3-T6)",
-        "instructor": "Lúcia Bastos",
-        "classroom": "9015/F"
+        "time": "5ª (M5-M6)",
+        "instructor": "André Azevedo",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Contemporânea I",
-        "subjectCode": "IFCH01-10194",
+        "subject": "Sem. Esp. em Hist. Contemporânea V",
+        "subjectCode": "IFCH01- 10200",
         "T": "01",
-        "time": "3ª (T3-T6)",
+        "time": "5ª (T3-T6)",
         "instructor": "Alexandra Tedesco",
         "classroom": "9019/F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Contemporânea IV",
-        "subjectCode": "IFCH01-10199",
+        "subject": "Sem. Esp. em Hist. Contemporânea VI",
+        "subjectCode": "IFCH01- 10201",
         "T": "01",
-        "time": "2ª (T3-T6)",
+        "time": "5ª (T3-T6)",
         "instructor": "Oswaldo Munteal",
-        "classroom": "9009/F"
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. Contemporânea V",
-        "subjectCode": "IFCH01-10200",
+        "subject": "Sem. Esp. em História da África I",
+        "subjectCode": "IFCH01- 10224",
         "T": "01",
-        "time": "5ª (T2-T5)",
+        "time": "4ª (T2-T5)",
         "instructor": "Priscila Weber",
         "classroom": "9019/F"
     },
+
     {
         "department": "historia",
-        "subject": "Sem. Esp. em Hist. da África II",
-        "subjectCode": "IFCH01-10226",
+        "subject": "Historiografia e Ensino de História",
+        "subjectCode": "CAP05- 08912",
         "T": "01",
-        "time": "3ª (T3-T6)",
-        "instructor": "Washington",
-        "classroom": "9015/F"
+        "time": "2ª (N5)",
+        "instructor": "Leonardo Padilha",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Historiografia e Ensino de História",
+        "subjectCode": "CAP05- 08912",
+        "T": "01",
+        "time": "5ª (T3)",
+        "instructor": "Leonardo Padilha",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Noção de Tempo Histórico no Ens. Fundamental e Médio",
+        "subjectCode": "CAP05- 08913",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Alcidésio",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Noção de Tempo Histórico no Ens. Fundamental e Médio",
+        "subjectCode": "CAP05- 08913",
+        "T": "01",
+        "time": "4ª (T3-T4)",
+        "instructor": "Alcidésio",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História I",
+        "subjectCode": "CAP05- 08852",
+        "T": "01",
+        "time": "5ª (T1-T3)",
+        "instructor": "Vivian Zampa",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História I",
+        "subjectCode": "CAP05- 08852",
+        "T": "01",
+        "time": "3ª (M1-M3)",
+        "instructor": "Vivian Zampa",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História I",
+        "subjectCode": "CAP05- 08852",
+        "T": "02",
+        "time": "2ª (N2-N4)",
+        "instructor": "Leonardo Padilha",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História I",
+        "subjectCode": "CAP05- 08852",
+        "T": "02",
+        "time": "5ª (T4-T6)",
+        "instructor": "Leonardo Padilha",
+        "classroom": "90 /F"
+    },
+
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado I",
+        "subjectCode": "IFCH01- 10099",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Vivian Fonseca",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado I",
+        "subjectCode": "IFCH01- 10099",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Vivian Fonseca",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado I",
+        "subjectCode": "IFCH01- 10099",
+        "T": "01",
+        "time": "3ª (N3-N4)",
+        "instructor": "Livia Beatriz",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado I",
+        "subjectCode": "IFCH01- 10099",
+        "T": "01",
+        "time": "6ª (N4-N5)",
+        "instructor": "Livia Beatriz",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História II",
+        "subjectCode": "CAP05- 08853",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "William Vaz",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História II",
+        "subjectCode": "CAP05- 08853",
+        "T": "01",
+        "time": "4ª (T1-T2)",
+        "instructor": "William Vaz",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História II",
+        "subjectCode": "CAP05- 08853",
+        "T": "02",
+        "time": "2ª (T3-T4)",
+        "instructor": "Hilton",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História II",
+        "subjectCode": "CAP05- 08853",
+        "T": "02",
+        "time": "2ª (N1-N2)",
+        "instructor": "Hilton",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado II",
+        "subjectCode": "IFCH01- 10100",
+        "T": "01",
+        "time": "2ª (M1-M4)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado II",
+        "subjectCode": "IFCH01- 10100",
+        "T": "01",
+        "time": "4ª (M1-M2)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado II",
+        "subjectCode": "IFCH01- 10100",
+        "T": "02",
+        "time": "4ª (N1-N4)",
+        "instructor": "Priscila Aquino",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Supervisionado II",
+        "subjectCode": "IFCH01- 10100",
+        "T": "02",
+        "time": "6ª (N1-N2)",
+        "instructor": "Priscila Aquino",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História III",
+        "subjectCode": "CAP05- 08963",
+        "T": "01",
+        "time": "2ª (M2-M5)",
+        "instructor": "Alcidésio",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Estágio Sup. em História III",
+        "subjectCode": "CAP05- 08963",
+        "T": "01",
+        "time": "5ª (N1-N4)",
+        "instructor": "Joana dos Santos",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
         "subject": "Sem. Esp. em Ensino História I",
-        "subjectCode": "IFCH01-10122",
+        "subjectCode": "IFCH01- 10122",
         "T": "01",
-        "time": "4ª (T3-T6)",
-        "instructor": "Carlos Eduardo",
-        "classroom": "9019/F"
+        "time": "2ª (M5-M6)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sem. Esp. em Ensino História I",
+        "subjectCode": "IFCH01- 10122",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
     },
     {
         "department": "historia",
         "subject": "Sem. Esp. em Ensino História II",
-        "subjectCode": "IFCH01-10131",
+        "subjectCode": "IFCH01- 10131",
         "T": "01",
-        "time": "Não será oferecida neste semestre",
-        "instructor": "",
-        "classroom": ""
+        "time": "2ª (M5-M6)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sem. Esp. em Ensino História II",
+        "subjectCode": "IFCH01- 10131",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Anita Lucchesi",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sem. Esp. em Ensino História II",
+        "subjectCode": "IFCH01- 10131",
+        "T": "02",
+        "time": "3ª (N2-N3)",
+        "instructor": "Wendell Veloso",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "historia",
+        "subject": "Sem. Esp. em Ensino História II",
+        "subjectCode": "IFCH01- 10131",
+        "T": "02",
+        "time": "5ª (N3-N4)",
+        "instructor": "Wendell Veloso",
+        "classroom": "90 /F"
     },
     {
         "department": "historia",
         "subject": "Sem. Esp. em Ensino História III",
-        "subjectCode": "IFCH01-10132",
+        "subjectCode": "IFCH01- 10132",
         "T": "01",
-        "time": "Não será oferecida neste semestre",
-        "instructor": "",
-        "classroom": ""
-    },
-    {
-        "department": "historia",
-        "subject": "Tóp. Esp. em Ensino História I",
-        "subjectCode": "IFCH01-10133",
-        "T": "01",
-        "time": "Não será oferecida neste semestre",
-        "instructor": "",
-        "classroom": ""
-    },
-    {
-        "department": "historia",
-        "subject": "Tóp. Esp. em Ensino História II",
-        "subjectCode": "IFCH01-10134",
-        "T": "01",
-        "time": "Não será oferecida neste semestre",
-        "instructor": "",
-        "classroom": ""
-    },
-    {
-        "department": "historia",
-        "subject": "Tóp. Esp. em Ensino História III",
-        "subjectCode": "IFCH01-10135",
-        "T": "01",
-        "time": "Não será oferecida neste semestre",
-        "instructor": "",
-        "classroom": ""
+        "time": "4ª (T1-T4)",
+        "instructor": "Mário Brum",
+        "classroom": "9015/F"
     }
 ]
