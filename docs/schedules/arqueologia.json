@@ -1,353 +1,587 @@
 [
     {
-        "department": "arqueologia",
-        "subject": "Laboratório III (Cerâmica)",
-        "subjectCode": "IFCH05-12924",
-        "T": "01",
-        "time": "3ª (T4-T5)",
-        "instructor": "Fernando Ozório",
-        "classroom": "9005/B"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Laboratório III (Cerâmica)",
-        "subjectCode": "IFCH05-12924",
-        "T": "01",
-        "time": "5ª (T4-T5)",
-        "instructor": "Fernando Ozório",
-        "classroom": "9005/B"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Metodologia da Pesquisa",
-        "subjectCode": "IFCH05-12927",
-        "T": "01",
-        "time": "2ª (T2-T3)",
-        "instructor": "Sílvia Peixoto",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Metodologia da Pesquisa",
-        "subjectCode": "IFCH05-12927",
-        "T": "01",
-        "time": "4ª (T2-T3)",
-        "instructor": "Sílvia Peixoto",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Sociedades Indígenas",
-        "subjectCode": "IFCH05-12934",
-        "T": "01",
-        "time": "3ª (M5-M6)",
-        "instructor": "Márjorie Lima",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Sociedades Indígenas",
-        "subjectCode": "IFCH05-12934",
-        "T": "01",
-        "time": "5ª (M5-M6)",
-        "instructor": "Márjorie Lima",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Antropologia Biológica para",
-        "subjectCode": "IFCH05-12903",
-        "T": "01",
-        "time": "3ª (T2-T3)",
-        "instructor": "Camila Cupello",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Antropologia Biológica para",
-        "subjectCode": "IFCH05-12903",
-        "T": "01",
-        "time": "5ª (T2-T3)",
-        "instructor": "Camila Cupello",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "História do Brasil Para",
-        "subjectCode": "IFCH01-12900",
-        "T": "01",
-        "time": "3ª (M3-M4)",
-        "instructor": "Marieta Pinheiro",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "História do Brasil Para",
-        "subjectCode": "IFCH01-12900",
-        "T": "01",
-        "time": "5ª (M3-M4)",
-        "instructor": "Marieta Pinheiro",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Geografia do Estado do Rio de Janeiro para",
-        "subjectCode": "IGEOG01-12978",
-        "T": "01",
-        "time": "2ª (T4-T5)",
-        "instructor": "",
-        "classroom": "40 /F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Geografia do Estado do Rio de Janeiro para",
-        "subjectCode": "IGEOG01-12978",
-        "T": "01",
-        "time": "4ª (T4-T5)",
-        "instructor": "",
-        "classroom": "40 /F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Arqueologia da América Antiga II",
-        "subjectCode": "IFCH01-12907",
-        "T": "01",
-        "time": "3ª (M5-M6)",
-        "instructor": "Vlademir Luft",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Arqueologia da América Antiga II",
-        "subjectCode": "IFCH01-12907",
-        "T": "01",
-        "time": "5ª (M5-M6)",
-        "instructor": "Vlademir Luft",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Arqueologia do Brasil",
-        "subjectCode": "IFCH05-12910",
-        "T": "01",
-        "time": "2ª (T2-T3)",
-        "instructor": "Anderson Marques",
-        "classroom": "9053/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Arqueologia do Brasil",
-        "subjectCode": "IFCH05-12910",
-        "T": "01",
-        "time": "4ª (T2-T3)",
-        "instructor": "Anderson Marques",
-        "classroom": "9053/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Arqueologia Histórica I",
-        "subjectCode": "IFCH05-12912",
+        "department": "aqueologia",
+        "subject": "Análise e Interp. de Textos em Arqueologia",
+        "subjectCode": "IFCH05- 12902",
         "T": "01",
         "time": "2ª (M5-M6)",
-        "instructor": "Sílvia Peixoto",
+        "instructor": "Silvia Peixoto",
         "classroom": "9001/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Arqueologia Histórica I",
-        "subjectCode": "IFCH05-12912",
+        "department": "aqueologia",
+        "subject": "Análise e Interp. de Textos em Arqueologia",
+        "subjectCode": "IFCH05- 12902",
         "T": "01",
         "time": "4ª (M5-M6)",
-        "instructor": "Sílvia Peixoto",
+        "instructor": "Silvia Peixoto",
         "classroom": "9001/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Etno-arqueologia",
-        "subjectCode": "IFCH05-12917",
+        "department": "aqueologia",
+        "subject": "Antropologia Cultural para Arqueologia",
+        "subjectCode": "IFCH05- 12904",
+        "T": "01",
+        "time": "2ª (T2-T3)",
+        "instructor": "Nanci",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Antropologia Cultural para Arqueologia",
+        "subjectCode": "IFCH05- 12904",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Nanci",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia da Antiguidade I",
+        "subjectCode": "IFCH05- 12908",
         "T": "01",
         "time": "3ª (T2-T3)",
-        "instructor": "Fernando Ozório",
-        "classroom": "9053/F"
+        "instructor": "Treuk",
+        "classroom": "9001/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Etno-arqueologia",
-        "subjectCode": "IFCH05-12917",
+        "department": "aqueologia",
+        "subject": "Arqueologia da Antiguidade I",
+        "subjectCode": "IFCH05- 12908",
         "T": "01",
         "time": "5ª (T2-T3)",
+        "instructor": "Treuk",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Estatística Aplicada à Arqueologia",
+        "subjectCode": "IME05- 13089",
+        "T": "01",
+        "time": "3ª (T4-T5)",
+        "instructor": "Igor Campos",
+        "classroom": "6???/?/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Estatística Aplicada à Arqueologia",
+        "subjectCode": "IME05- 13089",
+        "T": "01",
+        "time": "5ª (T4-T5)",
+        "instructor": "Igor Campos",
+        "classroom": "6???/?/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geologia Geral para Arqueologia",
+        "subjectCode": "FGEL01- 12919",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Cláudia S./Beatriz P.",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geologia Geral para Arqueologia",
+        "subjectCode": "FGEL01- 12919",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Cláudia S./Beatriz P.",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geologia Geral para Arqueologia",
+        "subjectCode": "FGEL01- 12919",
+        "T": "02",
+        "time": "3ª (M5-M6)",
+        "instructor": "Cláudia S./ Beatriz P.",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geologia Geral para Arqueologia",
+        "subjectCode": "FGEL01- 12919",
+        "T": "02",
+        "time": "5ª (M5-M6)",
+        "instructor": "Cláudia S./ Beatriz P.",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Introdução à Arqueologia",
+        "subjectCode": "IFCH05- 12921",
+        "T": "01",
+        "time": "2ª (M3-M4)",
+        "instructor": "Paulo Seda",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Introdução à Arqueologia",
+        "subjectCode": "IFCH05- 12921",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Paulo Seda",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Pré-História Geral",
+        "subjectCode": "IFCH05- 12932",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Vlademir Luft",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Pré-História Geral",
+        "subjectCode": "IFCH05- 12932",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Vlademir Luft",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Laboratório II (Lítico)",
+        "subjectCode": "IFCH05- 12923",
+        "T": "01",
+        "time": "3ª (T4-T5)",
+        "instructor": "Anderson Marques",
+        "classroom": "9005/B"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Laboratório II (Lítico)",
+        "subjectCode": "IFCH05- 12923",
+        "T": "01",
+        "time": "5ª (T4-T5)",
+        "instructor": "Anderson Marques",
+        "classroom": "9005/B"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Met. Científica Aplicada à Arqueologia",
+        "subjectCode": "IFCH05- 12926",
+        "T": "01",
+        "time": "3ª (T2-T3)",
+        "instructor": "Mário Júnior",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Met. Científica Aplicada à Arqueologia",
+        "subjectCode": "IFCH05- 12926",
+        "T": "01",
+        "time": "5ª (T2-T3)",
+        "instructor": "Mário Júnior",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Teoria Arqueológica II",
+        "subjectCode": "IFCH05- 12936",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Márjorie Lima",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Teoria Arqueológica II",
+        "subjectCode": "IFCH05- 12936",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Márjorie Lima",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Neontologia para Arqueologia",
+        "subjectCode": "FGEL02- 12982",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Hermínio Júnior",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Neontologia para Arqueologia",
+        "subjectCode": "FGEL02- 12982",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Hermínio Júnior",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Neontologia para Arqueologia",
+        "subjectCode": "FGEL02- 12982",
+        "T": "02",
+        "time": "4ª (M3-M6)",
+        "instructor": "",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geotecnologias e Geop. Apli. à",
+        "subjectCode": "FGEL04- 12984",
+        "T": "03",
+        "time": "4ª (T2-T3)",
+        "instructor": "Francisco D./Hugo P.",
+        "classroom": ""
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Geotecnologias e Geop. Apli. à",
+        "subjectCode": "FGEL04- 12984",
+        "T": "03",
+        "time": "5ª (T2-T3)",
+        "instructor": "Francisco D./Hugo P.",
+        "classroom": ""
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia ***",
+        "subjectCode": "FGEL04- 12984",
+        "T": "02",
+        "time": "4ª (T4-T5)",
+        "instructor": "",
+        "classroom": ""
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia ***",
+        "subjectCode": "FGEL04- 12984",
+        "T": "02",
+        "time": "5ª (T2-T3)",
+        "instructor": "",
+        "classroom": ""
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Processos Geomorfológicos para a Arqueologia",
+        "subjectCode": "IGEOG01 -12979",
+        "T": "01",
+        "time": "2ª (T2-T5)",
+        "instructor": "Paulo Fachin",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Processos Geomorfológicos para a Arqueologia",
+        "subjectCode": "IGEOG01 -12979",
+        "T": "02",
+        "time": "2ª (T2-T5)",
+        "instructor": "",
+        "classroom": "40 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "História do Brasil p/ Arqueologia II",
+        "subjectCode": "IFCH01- 12901",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Izabel da Silva",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "História do Brasil p/ Arqueologia II",
+        "subjectCode": "IFCH01- 12901",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Izabel da Silva",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Antropologia Biológica p/ Arqueologia II",
+        "subjectCode": "IFCH05- 12905",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Nanci",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Antropologia Biológica p/ Arqueologia II",
+        "subjectCode": "IFCH05- 12905",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Nanci",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia da América Antiga I",
+        "subjectCode": "IFCH05- 12906",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Vlademir Luft",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia da América Antiga I",
+        "subjectCode": "IFCH05- 12906",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Vlademir Luft",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Etnologia Brasileira",
+        "subjectCode": "IFCH05- 12918",
+        "T": "01",
+        "time": "2ª (T2-T3)",
         "instructor": "Fernando Ozório",
         "classroom": "9053/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Gestão de Patrimônio e",
-        "subjectCode": "IFCH01-12920",
+        "department": "aqueologia",
+        "subject": "Etnologia Brasileira",
+        "subjectCode": "IFCH05- 12918",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Fernando Ozório",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Laboratório IV (Osso e concha)",
+        "subjectCode": "IFCH05- 12925",
         "T": "01",
         "time": "2ª (M3-M4)",
-        "instructor": "Mário Júnior",
-        "classroom": "9001/F"
+        "instructor": "Camila Cupello",
+        "classroom": "9005/B"
     },
     {
-        "department": "arqueologia",
-        "subject": "Gestão de Patrimônio e",
-        "subjectCode": "IFCH01-12920",
+        "department": "aqueologia",
+        "subject": "Laboratório IV (Osso e concha)",
+        "subjectCode": "IFCH05- 12925",
         "T": "01",
         "time": "4ª (M3-M4)",
-        "instructor": "Mário Júnior",
-        "classroom": "9001/F"
+        "instructor": "Camila Cupello",
+        "classroom": "9005/B"
     },
     {
-        "department": "arqueologia",
-        "subject": "Prática de Campo I",
-        "subjectCode": "IFCH05-12930",
+        "department": "aqueologia",
+        "subject": "Met. da Pesq. Arqueológica II",
+        "subjectCode": "IFCH05- 12928",
         "T": "01",
-        "time": "Sáb. (M3-T2)",
-        "instructor": "Anderson Marques",
-        "classroom": "Ver c/ Prof."
+        "time": "3ª (T2-T3)",
+        "instructor": "Márjorie Lima",
+        "classroom": "9054/F"
     },
     {
-        "department": "arqueologia",
+        "department": "aqueologia",
+        "subject": "Met. da Pesq. Arqueológica II",
+        "subjectCode": "IFCH05- 12928",
+        "T": "01",
+        "time": "5ª (T2-T3)",
+        "instructor": "Márjorie Lima",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia do Brasil Antigo II",
+        "subjectCode": "IFCH05- 12911",
+        "T": "01",
+        "time": "2ª (T2-T3)",
+        "instructor": "Paulo Seda",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia do Brasil Antigo II",
+        "subjectCode": "IFCH05- 12911",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Paulo Seda",
+        "classroom": "9054/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia Histórica II",
+        "subjectCode": "IFCH05- 12913",
+        "T": "01",
+        "time": "2ª (M3-M4)",
+        "instructor": "Glaucia Aparecida",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Arqueologia Histórica II",
+        "subjectCode": "IFCH05- 12913",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Glaucia Aparecida",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Prática de Campo II",
+        "subjectCode": "IFCH05- 12931",
+        "T": "01",
+        "time": "Sáb. (M2-M6)",
+        "instructor": "Glaucia Aparecida",
+        "classroom": "9005/B"
+    },
+    {
+        "department": "aqueologia",
         "subject": "Projeto de Monografia",
-        "subjectCode": "IFCH05-12933",
+        "subjectCode": "IFCH05- 12933",
         "T": "01",
         "time": "2ª (M1-M2)",
         "instructor": "Paulo Seda",
-        "classroom": "Ver c/ Prof."
+        "classroom": "9001/F"
     },
     {
-        "department": "arqueologia",
+        "department": "aqueologia",
         "subject": "Projeto de Monografia",
-        "subjectCode": "IFCH05-12933",
+        "subjectCode": "IFCH05- 12933",
         "T": "01",
         "time": "4ª (M1-M2)",
         "instructor": "Paulo Seda",
-        "classroom": "Ver c/ Prof."
+        "classroom": "9001/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Estágio Externo Supervisionado",
-        "subjectCode": "IFCH05-12915",
+        "department": "aqueologia",
+        "subject": "Zooarqueologia",
+        "subjectCode": "IBRAG11 -12983",
         "T": "01",
-        "time": "Sáb. (M1-M6)",
+        "time": "3ª (M5-T2)",
+        "instructor": "Camila Cupello",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Estágio Externo Supervisionado",
+        "subjectCode": "IFCH05- 12915",
+        "T": "01",
+        "time": "Sáb. (M5-T4)",
         "instructor": "Vlademir Luft",
         "classroom": "Ver c/ Prof."
     },
     {
-        "department": "arqueologia",
+        "department": "aqueologia",
         "subject": "Monografia",
-        "subjectCode": "IFCH05-12929",
+        "subjectCode": "IFCH05- 12929",
         "T": "01",
         "time": "2ª (M1-M2)",
-        "instructor": "Nanci",
+        "instructor": "Camilla Agostini",
         "classroom": "Ver com a professora"
     },
     {
-        "department": "arqueologia",
+        "department": "aqueologia",
         "subject": "Monografia",
-        "subjectCode": "IFCH05-12929",
+        "subjectCode": "IFCH05- 12929",
         "T": "01",
         "time": "4ª (M1-M2)",
-        "instructor": "Nanci",
+        "instructor": "Camilla Agostini",
         "classroom": "Ver com a professora"
     },
     {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arquebiologia III",
-        "subjectCode": "IFCH05-12939",
-        "T": "01",
-        "time": "2ª (T4-T5)",
-        "instructor": "Nanci",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arquebiologia III",
-        "subjectCode": "IFCH05-12939",
-        "T": "01",
-        "time": "4ª (T4-T5)",
-        "instructor": "Nanci",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arqueologia Ciências Humanas I",
-        "subjectCode": "IFCH05-12940",
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia Ciências Humanas II",
+        "subjectCode": "IFCH05- 12941",
         "T": "01",
         "time": "3ª (T4-T5)",
-        "instructor": "Márjorie Lima",
-        "classroom": "9058/F"
+        "instructor": "Mário Júnior",
+        "classroom": "9053/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arqueologia Ciências Humanas I",
-        "subjectCode": "IFCH05-12940",
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia Ciências Humanas II",
+        "subjectCode": "IFCH05- 12941",
         "T": "01",
         "time": "5ª (T4-T5)",
-        "instructor": "Márjorie Lima",
-        "classroom": "9054/F"
+        "instructor": "Mário Júnior",
+        "classroom": "9053/F"
     },
     {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arqueologia",
-        "subjectCode": "IFCH05-12942",
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia da Antiguidade II",
+        "subjectCode": "IFCH05- 12946",
+        "T": "01",
+        "time": "3ª (T4-T5)",
+        "instructor": "Treuk",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia da Antiguidade II",
+        "subjectCode": "IFCH05- 12946",
+        "T": "01",
+        "time": "5ª (T4-T5)",
+        "instructor": "Treuk",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia do Brasil Antigo IV",
+        "subjectCode": "IFCH05- 12951",
+        "T": "01",
+        "time": "2ª (T4-T5)",
+        "instructor": "Fernando Ozório",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia do Brasil Antigo IV",
+        "subjectCode": "IFCH05- 12951",
+        "T": "01",
+        "time": "4ª (T4-T5)",
+        "instructor": "Fernando Ozório",
+        "classroom": "9053/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia Histórica V",
+        "subjectCode": "IFCH05- 12957",
+        "T": "01",
+        "time": "2ª (T4-T5)",
+        "instructor": "Silvia Peixoto",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Arqueologia Histórica V",
+        "subjectCode": "IFCH05- 12957",
+        "T": "01",
+        "time": "4ª (T4-T5)",
+        "instructor": "Silvia Peixoto",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Geoarqueologia III",
+        "subjectCode": "IFCH05- 12966",
+        "T": "01",
+        "time": "6ª (M5-T2)",
+        "instructor": "Enrico Pedroso",
+        "classroom": "9009/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Met. da Pesq. Arqueológica III",
+        "subjectCode": "IFCH05- 12974",
+        "T": "01",
+        "time": "6ª (T2-T5)",
+        "instructor": "Anderson Marques",
+        "classroom": "9001/F"
+    },
+    {
+        "department": "aqueologia",
+        "subject": "Tóp. Esp. em Teoria Arqueológica I",
+        "subjectCode": "IFCH05- 12975",
         "T": "01",
         "time": "6ª (M3-M6)",
-        "instructor": "Vlademir Luft(Teresa)",
+        "instructor": "Camilla Agostini",
         "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arqueologia da",
-        "subjectCode": "IFCH05-12945",
-        "T": "01",
-        "time": "3ª (T4-T5)",
-        "instructor": "Treuck",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Arqueologia da",
-        "subjectCode": "IFCH05-12945",
-        "T": "01",
-        "time": "5ª (T4-T5)",
-        "instructor": "Treuck",
-        "classroom": "9001/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Bioarqueologia III",
-        "subjectCode": "IFCH05-12963",
-        "T": "01",
-        "time": "3ª (T4-T5)",
-        "instructor": "Camila Cupello",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Bioarqueologia III",
-        "subjectCode": "IFCH05-12963",
-        "T": "01",
-        "time": "5ª (T4-T5)",
-        "instructor": "Camila Cupello",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Teoria Arqueológia III",
-        "subjectCode": "IFCH05-12977",
-        "T": "01",
-        "time": "2ª (T4-T5)",
-        "instructor": "Glaucia Aparecida",
-        "classroom": "9050/F"
-    },
-    {
-        "department": "arqueologia",
-        "subject": "Tóp. Esp. em Teoria Arqueológia III",
-        "subjectCode": "IFCH05-12977",
-        "T": "01",
-        "time": "4ª (T4-T5)",
-        "instructor": "Glaucia Aparecida",
-        "classroom": "9050/F"
     }
 ]
