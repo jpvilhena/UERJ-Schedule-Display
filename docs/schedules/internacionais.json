@@ -1,161 +1,26 @@
 [
     {
         "department": "internacionais",
-        "subject": "História das Rel. Internacionais II",
-        "subjectCode": "IFCH01-12698",
-        "T": "01",
-        "time": "3ª (T3-T4)",
-        "instructor": "Hugo Suppo",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "História das Rel. Internacionais II",
-        "subjectCode": "IFCH01-12698",
-        "T": "01",
-        "time": "5ª (T3-T4)",
-        "instructor": "Hugo Suppo",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Pensamento Político II",
-        "subjectCode": "IFCH04-12713",
+        "subject": "Estudos da Guerra e da Paz",
+        "subjectCode": "IFCH04- 12690",
         "T": "01",
         "time": "2ª (T3-T4)",
-        "instructor": "Bruno Borges",
+        "instructor": "Jana T. Chor/ Layla Dawood",
         "classroom": "9038/F"
     },
     {
         "department": "internacionais",
-        "subject": "Pensamento Político II",
-        "subjectCode": "IFCH04-12713",
+        "subject": "Estudos da Guerra e da Paz",
+        "subjectCode": "IFCH04- 12690",
         "T": "01",
         "time": "4ª (T3-T4)",
-        "instructor": "Bruno Borges",
+        "instructor": "Jana T. Chor/ Layla Dawood",
         "classroom": "9038/F"
     },
     {
         "department": "internacionais",
-        "subject": "Organizações Internacionais",
-        "subjectCode": "IFCH04-12711",
-        "T": "01",
-        "time": "2ª (T1-T2)",
-        "instructor": "Isa Mendes",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Organizações Internacionais",
-        "subjectCode": "IFCH04-12711",
-        "T": "01",
-        "time": "4ª (T1-T2)",
-        "instructor": "Isa Mendes",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Est. Apl. em Pesquisa em",
-        "subjectCode": "IME05-05650",
-        "T": "01",
-        "time": "3ª (M3-M4)",
-        "instructor": "Rodrigo Alves",
-        "classroom": "9062/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Est. Apl. em Pesquisa em",
-        "subjectCode": "IME05-05650",
-        "T": "01",
-        "time": "5ª (M3-M4)",
-        "instructor": "Rodrigo Alves",
-        "classroom": "9024/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Economia",
-        "subjectCode": "FCE01-12741",
-        "T": "01",
-        "time": "3ª (M5-M6)",
-        "instructor": "Lia Cecília",
-        "classroom": ""
-    },
-    {
-        "department": "internacionais",
-        "subject": "Economia",
-        "subjectCode": "FCE01-12741",
-        "T": "01",
-        "time": "5ª (M5-M6)",
-        "instructor": "Lia Cecília",
-        "classroom": ""
-    },
-    {
-        "department": "internacionais",
-        "subject": "Língua Portuguesa II para Relações",
-        "subjectCode": "ILE02-12674",
-        "T": "01",
-        "time": "6ª (M5-T2)",
-        "instructor": "Douglas Roberto",
-        "classroom": ""
-    },
-    {
-        "department": "internacionais",
-        "subject": "Análise de Pol. Externa",
-        "subjectCode": "IFCH04-12678",
-        "T": "01",
-        "time": "3ª (T1-T2)",
-        "instructor": "Fernanda Nanci",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Análise de Pol. Externa",
-        "subjectCode": "IFCH04-12678",
-        "T": "01",
-        "time": "5ª (T1-T2)",
-        "instructor": "Fernanda Nanci",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Direito e Rel. Internacionais",
-        "subjectCode": "IFCH04-12684",
-        "T": "01",
-        "time": "2ª (T3-T4)",
-        "instructor": "Ana Paula Tostes",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Direito e Rel. Internacionais",
-        "subjectCode": "IFCH04-12684",
-        "T": "01",
-        "time": "4ª (T3-T4)",
-        "instructor": "Ana Paula Tostes",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Economia Pol. Internacionais II",
-        "subjectCode": "IFCH04-12687",
-        "T": "01",
-        "time": "2ª (T5-T6)",
-        "instructor": "Joyce da Silva",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Economia Pol. Internacionais II",
-        "subjectCode": "IFCH04-12687",
-        "T": "01",
-        "time": "4ª (T5-T6)",
-        "instructor": "Joyce da Silva",
-        "classroom": "9038/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Pensamento Político IV",
-        "subjectCode": "IFCH04-12715",
+        "subject": "Fundamentos da Filosofia para as Relações Internacionais",
+        "subjectCode": "IFCH04- 12693",
         "T": "01",
         "time": "3ª (T5-T6)",
         "instructor": "Francine de Paula",
@@ -163,8 +28,8 @@
     },
     {
         "department": "internacionais",
-        "subject": "Pensamento Político IV",
-        "subjectCode": "IFCH04-12715",
+        "subject": "Fundamentos da Filosofia para as Relações Internacionais",
+        "subjectCode": "IFCH04- 12693",
         "T": "01",
         "time": "5ª (T5-T6)",
         "instructor": "Francine de Paula",
@@ -172,254 +37,498 @@
     },
     {
         "department": "internacionais",
-        "subject": "Teoria das Relações",
-        "subjectCode": "IFCH04-12734",
+        "subject": "Fundamentos da Sociologia para as Relações Internacionais",
+        "subjectCode": "IFCH04- 12694",
+        "T": "01",
+        "time": "2ª (T5-T6)",
+        "instructor": "Bruno Borges",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Fundamentos da Sociologia para as Relações Internacionais",
+        "subjectCode": "IFCH04- 12694",
+        "T": "01",
+        "time": "4ª (T5-T6)",
+        "instructor": "Bruno Borges",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Introdução à Política Internacional",
+        "subjectCode": "IFCH04- 12700",
+        "T": "01",
+        "time": "3ª (T3-T4)",
+        "instructor": "Fernanda Nanci",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Introdução à Política Internacional",
+        "subjectCode": "IFCH04- 12700",
+        "T": "01",
+        "time": "5ª (T1-T2)",
+        "instructor": "Fernanda Nanci",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Pensamento Político I",
+        "subjectCode": "IFCH04- 12712",
         "T": "01",
         "time": "2ª (T1-T2)",
-        "instructor": "Layla Dawood",
-        "classroom": "9032/F"
+        "instructor": "Isa Mendes",
+        "classroom": "9038/F"
     },
     {
         "department": "internacionais",
-        "subject": "Teoria das Relações",
-        "subjectCode": "IFCH04-12734",
+        "subject": "Pensamento Político I",
+        "subjectCode": "IFCH04- 12712",
         "T": "01",
         "time": "4ª (T1-T2)",
-        "instructor": "Layla Dawood",
+        "instructor": "Isa Mendes",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Língua Portuguesa I para Relações Internacionais",
+        "subjectCode": "ILE02- 12673",
+        "T": "01",
+        "time": "6ª (M3-M6)",
+        "instructor": "",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "História das Relações Internacionais I",
+        "subjectCode": "IFCH04- 12697",
+        "T": "01",
+        "time": "3ª (T1-T2)",
+        "instructor": "Clarissa Forner",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "História das Relações Internacionais I",
+        "subjectCode": "IFCH04- 12697",
+        "T": "01",
+        "time": "5ª (T3-T4)",
+        "instructor": "Clarissa Forner",
+        "classroom": "9038/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "História das Rel. Internacionais II",
+        "subjectCode": "IFCH01 -12698",
+        "T": "01",
+        "time": "Sáb. (M1-M4)",
+        "instructor": "Hugo Suppo",
+        "classroom": "Ver c/ o orientador"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Cultura e Relações Internacionais",
+        "subjectCode": "IFCH04 -12682",
+        "T": "01",
+        "time": "3ª (T3-T4)",
+        "instructor": "Hugo Suppo",
         "classroom": "9032/F"
     },
     {
         "department": "internacionais",
-        "subject": "Dinâmicas de Int. Regional",
-        "subjectCode": "IFCH04-12683",
+        "subject": "Cultura e Relações Internacionais",
+        "subjectCode": "IFCH04 -12682",
+        "T": "01",
+        "time": "5ª (T3-T4)",
+        "instructor": "Hugo Suppo",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Economia Política",
+        "subjectCode": "IFCH04 -12686",
+        "T": "01",
+        "time": "3ª (T5-T6)",
+        "instructor": "Pablo Braga",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Economia Política",
+        "subjectCode": "IFCH04 -12686",
+        "T": "01",
+        "time": "5ª (T5-T6)",
+        "instructor": "Pablo Braga",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Fundamentos Teóricos de Geopolíticas",
+        "subjectCode": "IFCH04 -12695",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Alana",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Fundamentos Teóricos de Geopolíticas",
+        "subjectCode": "IFCH04 -12695",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Alana",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Pensamento Político III",
+        "subjectCode": "IFCH04 -12714",
+        "T": "01",
+        "time": "3ª (T1-T2)",
+        "instructor": "Pablo Victor",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Pensamento Político III",
+        "subjectCode": "IFCH04 -12714",
+        "T": "01",
+        "time": "5ª (T1-T2)",
+        "instructor": "Pablo Victor",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais III",
+        "subjectCode": "IFCH04 -12733",
+        "T": "01",
+        "time": "2ª (T2-T3)",
+        "instructor": "Bruno Borges",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais III",
+        "subjectCode": "IFCH04 -12733",
+        "T": "01",
+        "time": "4ª (T2-T3)",
+        "instructor": "Bruno Borges",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Língua Inglesa Instrumental para Rel. Internacionais I",
+        "subjectCode": "ILE04- 12671",
+        "T": "01",
+        "time": "2ª (T4-T5)",
+        "instructor": "Renata Pontes/Marcela Valente",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Língua Inglesa Instrumental para Rel. Internacionais I",
+        "subjectCode": "ILE04- 12671",
+        "T": "01",
+        "time": "4ª (T4-T5)",
+        "instructor": "Renata Pontes/Marcela Valente",
+        "classroom": "9032/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Análise de Pol. Externa",
+        "subjectCode": "IFCH04 -12678",
+        "T": "01",
+        "time": "2ª (T3-T4)",
+        "instructor": "Plabo Rezende",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Análise de Pol. Externa",
+        "subjectCode": "IFCH04 -12678",
+        "T": "01",
+        "time": "4ª (T3-T4)",
+        "instructor": "Plabo Rezende",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Economia Pol. Internacionais II",
+        "subjectCode": "IFCH04 -12687",
+        "T": "01",
+        "time": "3ª (T5-T6)",
+        "instructor": "Layla Dawood",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Economia Pol. Internacionais II",
+        "subjectCode": "IFCH04 -12687",
+        "T": "01",
+        "time": "5ª (T5-T6)",
+        "instructor": "Layla Dawood",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Pensamento Político IV",
+        "subjectCode": "IFCH04 -12715",
+        "T": "01",
+        "time": "2ª (T1-T2)",
+        "instructor": "Williams",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Pensamento Político IV",
+        "subjectCode": "IFCH04 -12715",
+        "T": "01",
+        "time": "4ª (T1-T2)",
+        "instructor": "Williams",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais II",
+        "subjectCode": "IFCH04 -12734",
+        "T": "01",
+        "time": "3ª (T1-T2)",
+        "instructor": "Layla Dawood",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais II",
+        "subjectCode": "IFCH04 -12734",
+        "T": "01",
+        "time": "5ª (T1-T2)",
+        "instructor": "Layla Dawood",
+        "classroom": "9015/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Formação Político-Econômica Brasileira",
+        "subjectCode": "IFCH04 -12692",
+        "T": "01",
+        "time": "3ª (M5-M6)",
+        "instructor": "Joyce da Silva",
+        "classroom": "9058/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Formação Político-Econômica Brasileira",
+        "subjectCode": "IFCH04 -12692",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Joyce da Silva",
+        "classroom": "9058/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Globalização, Política e Cultura",
+        "subjectCode": "IFCH04 -12696",
         "T": "01",
         "time": "3ª (M3-M4)",
-        "instructor": "Pablo Braga",
+        "instructor": "Pablo Victor",
         "classroom": "9058/F"
     },
     {
         "department": "internacionais",
-        "subject": "Dinâmicas de Int. Regional",
-        "subjectCode": "IFCH04-12683",
+        "subject": "Globalização, Política e Cultura",
+        "subjectCode": "IFCH04 -12696",
         "T": "01",
         "time": "5ª (M3-M4)",
-        "instructor": "Pablo Braga",
+        "instructor": "Pablo Victor",
         "classroom": "9058/F"
     },
     {
         "department": "internacionais",
-        "subject": "Epistemologia das Rel. Intern.",
-        "subjectCode": "IFCH04-12688",
+        "subject": "Política Externa Brasileira I",
+        "subjectCode": "IFCH04 -12719",
         "T": "01",
         "time": "2ª (M3-M4)",
-        "instructor": "Bruno Borges",
+        "instructor": "Alana",
+        "classroom": "9058/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Política Externa Brasileira I",
+        "subjectCode": "IFCH04 -12719",
+        "T": "01",
+        "time": "4ª (M3-M4)",
+        "instructor": "Alana",
+        "classroom": "9058/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais I",
+        "subjectCode": "IFCH04 -12735",
+        "T": "01",
+        "time": "2ª (M5-M6)",
+        "instructor": "Jana Tabak Chor",
+        "classroom": "9058/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Teoria das Relações Internacionais I",
+        "subjectCode": "IFCH04 -12735",
+        "T": "01",
+        "time": "4ª (M5-M6)",
+        "instructor": "Jana Tabak Chor",
         "classroom": "9058/F"
     },
     {
         "department": "internacionais",
         "subject": "Epistemologia das Rel. Intern.",
-        "subjectCode": "IFCH04-12688",
+        "subjectCode": "IFCH04 -12688",
         "T": "01",
-        "time": "4ª (M3-M4)",
+        "time": "3ª (M1-M2)",
         "instructor": "Bruno Borges",
-        "classroom": "9058/F"
+        "classroom": "9050/F"
     },
     {
         "department": "internacionais",
-        "subject": "Política Externa Brasileira II",
-        "subjectCode": "IFCH04-12720",
+        "subject": "Epistemologia das Rel. Intern.",
+        "subjectCode": "IFCH04 -12688",
+        "T": "01",
+        "time": "5ª (M1-M2)",
+        "instructor": "Bruno Borges",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Mecanismos de Integ. Regional",
+        "subjectCode": "IFCH04 -12701",
         "T": "01",
         "time": "3ª (M5-M6)",
         "instructor": "Paulo Velasco",
-        "classroom": "9058/F"
+        "classroom": "9062/F"
     },
     {
         "department": "internacionais",
-        "subject": "Política Externa Brasileira II",
-        "subjectCode": "IFCH04-12720",
+        "subject": "Mecanismos de Integ. Regional",
+        "subjectCode": "IFCH04 -12701",
         "T": "01",
         "time": "5ª (M5-M6)",
         "instructor": "Paulo Velasco",
-        "classroom": "9058/F"
+        "classroom": "9062/F"
     },
     {
         "department": "internacionais",
-        "subject": "Segurança e Rel. Internacionais",
-        "subjectCode": "IFCH04-12730",
+        "subject": "Metodologia p/ as Relações Internacionais",
+        "subjectCode": "IFCH04 -12702",
         "T": "01",
         "time": "2ª (M5-M6)",
-        "instructor": "Clarissa Forner",
-        "classroom": "9058/F"
+        "instructor": "Thales Leonardo",
+        "classroom": "90 /F"
     },
     {
         "department": "internacionais",
-        "subject": "Segurança e Rel. Internacionais",
-        "subjectCode": "IFCH04-12730",
+        "subject": "Metodologia p/ as Relações Internacionais",
+        "subjectCode": "IFCH04 -12702",
         "T": "01",
         "time": "4ª (M5-M6)",
+        "instructor": "Thales Leonardo",
+        "classroom": "90 /F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Política Externa Comparada",
+        "subjectCode": "IFCH04 -12721",
+        "T": "01",
+        "time": "3ª (M3-M4)",
+        "instructor": "Miriam Saraiva",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Política Externa Comparada",
+        "subjectCode": "IFCH04 -12721",
+        "T": "01",
+        "time": "5ª (M3-M4)",
+        "instructor": "Miriam Saraiva",
+        "classroom": "9062/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Monografia",
+        "subjectCode": "IFCH04 -12705",
+        "T": "01",
+        "time": "Sáb. (M1-T4)",
+        "instructor": "Hugo Suppo/Miriam saraiva/Jana Tabak Chor",
+        "classroom": "Ver c/ o orientador"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Estados Unidos: Cultura e Instituições",
+        "subjectCode": "IFCH04 -12689",
+        "T": "01",
+        "time": "3ª (M5-M6)",
         "instructor": "Clarissa Forner",
+        "classroom": "9059/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Estados Unidos: Cultura e Instituições",
+        "subjectCode": "IFCH04 -12689",
+        "T": "01",
+        "time": "5ª (M5-M6)",
+        "instructor": "Clarissa Forner",
+        "classroom": "9059/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Mídia e Relacões Internacionais",
+        "subjectCode": "IFCH04 -12703",
+        "T": "01",
+        "time": "5ª (T3-T4)",
+        "instructor": "Pablo Victor",
+        "classroom": "9050/F"
+    },
+    {
+        "department": "internacionais",
+        "subject": "Questões Humanitárias nas Rel. Internacionais",
+        "subjectCode": "IFCH04 -12726",
+        "T": "01",
+        "time": "6ª (M2-M5)",
+        "instructor": "San Romaneli",
         "classroom": "9058/F"
     },
     {
         "department": "internacionais",
-        "subject": "Monografia",
-        "subjectCode": "IFCH04-12705",
+        "subject": "Teorias e Processos de Globalização",
+        "subjectCode": "IFCH04 -12737",
         "T": "01",
-        "time": "2ª,",
-        "instructor": "Fernanda Nanci/Jana T. Chor/",
-        "classroom": "Ver c/ o orientador"
+        "time": "3ª (T3-T4)",
+        "instructor": "Pablo Braga",
+        "classroom": "9058/F"
     },
     {
         "department": "internacionais",
-        "subject": "Monografia",
-        "subjectCode": "IFCH04-12705",
+        "subject": "Teorias e Processos de Globalização",
+        "subjectCode": "IFCH04 -12737",
         "T": "01",
-        "time": "3ª,",
-        "instructor": "Fernanda Nanci/Jana T. Chor/",
-        "classroom": "Ver c/ o orientador"
+        "time": "5ª (T3-T4)",
+        "instructor": "Pablo Braga",
+        "classroom": "9058/F"
     },
     {
         "department": "internacionais",
-        "subject": "Monografia",
-        "subjectCode": "IFCH04-12705",
-        "T": "01",
-        "time": "4ª,",
-        "instructor": "Fernanda Nanci/Jana T. Chor/",
-        "classroom": "Ver c/ o orientador"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Monografia",
-        "subjectCode": "IFCH04-12705",
-        "T": "01",
-        "time": "5ª e",
-        "instructor": "Fernanda Nanci/Jana T. Chor/",
-        "classroom": "Ver c/ o orientador"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Monografia",
-        "subjectCode": "IFCH04-12705",
-        "T": "01",
-        "time": "6ª (M1-M2)",
-        "instructor": "Fernanda Nanci/Jana T. Chor/",
-        "classroom": "Ver c/ o orientador"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Política Internacional",
-        "subjectCode": "IFCH04-12723",
+        "subject": "Seminário Especial em Política Externa I",
+        "subjectCode": "IFCH04 -13107",
         "T": "01",
         "time": "2ª (M3-M4)",
-        "instructor": "Clarissa Forner",
-        "classroom": "9024/F"
+        "instructor": "Isa Mendes",
+        "classroom": "9062/F"
     },
     {
         "department": "internacionais",
-        "subject": "Política Internacional",
-        "subjectCode": "IFCH04-12723",
+        "subject": "Seminário Especial em Política Externa I",
+        "subjectCode": "IFCH04 -13107",
         "T": "01",
         "time": "4ª (M3-M4)",
         "instructor": "Isa Mendes",
-        "classroom": "9024/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Brasil e o Mercosul",
-        "subjectCode": "IFCH04-12680",
-        "T": "01",
-        "time": "3ª (T3-T4)",
-        "instructor": "Thales Leonardo",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Brasil e o Mercosul",
-        "subjectCode": "IFCH04-12680",
-        "T": "01",
-        "time": "5ª (T3-T4)",
-        "instructor": "Thales Leonardo",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Nações e Nacionalismo",
-        "subjectCode": "IFCH04-12707",
-        "T": "01",
-        "time": "3ª (M3-M4)",
-        "instructor": "Miriam Saraiva",
-        "classroom": "9059/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Nações e Nacionalismo",
-        "subjectCode": "IFCH04-12707",
-        "T": "01",
-        "time": "5ª (M3-M4)",
-        "instructor": "Miriam Saraiva",
-        "classroom": "9059/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Teoria Social e Rel. Internacionais",
-        "subjectCode": "IFCH04-12736",
-        "T": "01",
-        "time": "2ª (T3-T4)",
-        "instructor": "Joyce da Silva",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Teoria Social e Rel. Internacionais",
-        "subjectCode": "IFCH04-12736",
-        "T": "01",
-        "time": "4ª (T3-T4)",
-        "instructor": "Joyce da Silva",
-        "classroom": "9054/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Tóp. de Estudos Europeus: História, Democracia e Instituições",
-        "subjectCode": "IFCH04-12740",
-        "T": "01",
-        "time": "2ª (T5-T6)",
-        "instructor": "Ana Paula Tostes",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "O Brasil e o Mundo",
-        "subjectCode": "IFCH04-13101",
-        "T": "01",
-        "time": "5ª (M5-M6)",
-        "instructor": "Fernanda Nanci",
-        "classroom": "9059/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Temas de Pol. Int. Contempor II",
-        "subjectCode": "IFCH04-13104",
-        "T": "01",
-        "time": "3ª (M5-M6)",
-        "instructor": "Jana Tabak Chor",
-        "classroom": "9059/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Agendas de Pol. Int. Contemporân I",
-        "subjectCode": "IFCH04-13109",
-        "T": "01",
-        "time": "3ª (T1-T2)",
-        "instructor": "Pablo Victor/ Pablo Braga",
-        "classroom": "9032/F"
-    },
-    {
-        "department": "internacionais",
-        "subject": "Agendas de Pol. Int. Contemporân I",
-        "subjectCode": "IFCH04-13109",
-        "T": "01",
-        "time": "5ª (T1-T2)",
-        "instructor": "Pablo Victor/ Pablo Braga",
-        "classroom": "9032/F"
+        "classroom": "9062/F"
     }
+
 ]
